@@ -7,7 +7,7 @@ import random
 NUMBER_OF_GAMES = 100000
 
 #save rolls below num when you have [0, 1, 2, 3, 4, 5] die left
-SAVE_IF_BELOW = [-1, -1, 2, 1, 1, 0]
+SAVE_IF_BELOW = [-1, -1, 2, 1, 0, 0]
 
 #roll the dice and adjust so it rolls: 0 1 2 4 5 6
 def rollSingleDice():
@@ -59,3 +59,8 @@ for i in range(37):
     averageScore += arrayOfPoints[i]*i/NUMBER_OF_GAMES
     print("%2d"%i + "  " + "%5.2f"%(arrayOfPoints[i]*100/NUMBER_OF_GAMES))
 print(averageScore)
+
+pointsOrBelow = 0
+for i in range(10):
+    pointsOrBelow += arrayOfPoints[i]*100/NUMBER_OF_GAMES
+    print("%2d"%i + "  " + "%5.2f"%(pointsOrBelow))

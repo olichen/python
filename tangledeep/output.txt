@@ -1,0 +1,1612 @@
+{{Monster_Template
+|title1 = %%Name%%
+|family = %%Family%%
+|base_level = %%ChallengeValue%%
+|base_health = %%HP%%
+|highest_stat =
+*Strength - %%Strength%%
+*Swiftness - %%Swiftness%%
+*Discipline - %%Discipline%%
+*Spirit - %%Spirit%%
+*Guile - %%Guile%%
+*Accuracy - %%Accuracy%%
+}}
+{{Monster_Template
+|title1 = Mini Moss Jelly
+|family = jelly
+|base_level = 1
+|base_health = 40
+|highest_stat =
+*Strength - 5
+*Swiftness - 15
+*Discipline - 12
+*Spirit - 15
+*Guile - 5
+*Accuracy - 65
+}}
+{{Monster_Template
+|title1 = Moss Jelly
+|family = jelly
+|base_level = 1
+|base_health = 50
+|highest_stat =
+*Strength - 25
+*Swiftness - 15
+*Discipline - 12
+*Spirit - 15
+*Guile - 5
+*Accuracy - 75
+}}
+{{Monster_Template
+|title1 = Moss Jelly
+|family = jelly
+|base_level = 1
+|base_health = 85
+|highest_stat =
+*Strength - 25
+*Swiftness - 15
+*Discipline - 12
+*Spirit - 15
+*Guile - 5
+*Accuracy - 75
+}}
+{{Monster_Template
+|title1 = Salamander
+|family = beasts
+|base_level = 1
+|base_health = 100
+|highest_stat =
+*Strength - 25
+*Swiftness - 20
+*Discipline - 12
+*Spirit - 15
+*Guile - 12
+*Accuracy - 80
+}}
+{{Monster_Template
+|title1 = Salamander
+|family = beasts
+|base_level = 1
+|base_health = 60
+|highest_stat =
+*Strength - 25
+*Swiftness - 20
+*Discipline - 12
+*Spirit - 15
+*Guile - 12
+*Accuracy - 80
+}}
+{{Monster_Template
+|title1 = Grotto Flyer
+|family = insects
+|base_level = 1
+|base_health = 105
+|highest_stat =
+*Strength - 20
+*Swiftness - 20
+*Discipline - 12
+*Spirit - 15
+*Guile - 12
+*Accuracy - 75
+}}
+{{Monster_Template
+|title1 = Grove Pest
+|family = insects
+|base_level = 1
+|base_health = 115
+|highest_stat =
+*Strength - 20
+*Swiftness - 20
+*Discipline - 15
+*Spirit - 15
+*Guile - 20
+*Accuracy - 80
+}}
+{{Monster_Template
+|title1 = Fire Jelly
+|family = jelly
+|base_level = 1.1
+|base_health = 110
+|highest_stat =
+*Strength - 25
+*Swiftness - 15
+*Discipline - 12
+*Spirit - 15
+*Guile - 10
+*Accuracy - 80
+}}
+{{Monster_Template
+|title1 = Electric Jelly
+|family = jelly
+|base_level = 1.1
+|base_health = 110
+|highest_stat =
+*Strength - 25
+*Swiftness - 15
+*Discipline - 12
+*Spirit - 15
+*Guile - 10
+*Accuracy - 80
+}}
+{{Monster_Template
+|title1 = Mold-Infested Vermin
+|family = beasts
+|base_level = 1.1
+|base_health = 120
+|highest_stat =
+*Strength - 20
+*Swiftness - 20
+*Discipline - 20
+*Spirit - 15
+*Guile - 15
+*Accuracy - 82
+}}
+{{Monster_Template
+|title1 = Cave Stalker
+|family = insects
+|base_level = 1.1
+|base_health = 135
+|highest_stat =
+*Strength - 25
+*Swiftness - 18
+*Discipline - 24
+*Spirit - 15
+*Guile - 20
+*Accuracy - 85
+}}
+{{Monster_Template
+|title1 = Fungal Toad
+|family = frogs
+|base_level = 1.1
+|base_health = 170
+|highest_stat =
+*Strength - 22
+*Swiftness - 25
+*Discipline - 20
+*Spirit - 20
+*Guile - 20
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Harmless Frog
+|family = frogs
+|base_level = 1.1
+|base_health = 200
+|highest_stat =
+*Strength - 22
+*Swiftness - 25
+*Discipline - 20
+*Spirit - 20
+*Guile - 20
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Airacudas
+|family = beasts
+|base_level = 1.1
+|base_health = 160
+|highest_stat =
+*Strength - 25
+*Swiftness - 25
+*Discipline - 25
+*Spirit - 25
+*Guile - 25
+*Accuracy - 80
+}}
+{{Monster_Template
+|title1 = Crabbid
+|family = beasts
+|base_level = 1.1
+|base_health = 150
+|highest_stat =
+*Strength - 22
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 20
+*Guile - 30
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Goliath Beetle
+|family = insects
+|base_level = 1.2
+|base_health = 210
+|highest_stat =
+*Strength - 22
+*Swiftness - 25
+*Discipline - 20
+*Spirit - 20
+*Guile - 20
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Floraconda
+|family = hybrids
+|base_level = 1.3
+|base_health = 280
+|highest_stat =
+*Strength - 28
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 20
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Floraconda
+|family = hybrids
+|base_level = 1.4
+|base_health = 250
+|highest_stat =
+*Strength - 40
+*Swiftness - 35
+*Discipline - 35
+*Spirit - 35
+*Guile - 35
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Bog Frog
+|family = frogs
+|base_level = 1.3
+|base_health = 280
+|highest_stat =
+*Strength - 32
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Guardian Steward
+|family = robots
+|base_level = 1.3
+|base_health = 280
+|highest_stat =
+*Strength - 28
+*Swiftness - 35
+*Discipline - 20
+*Spirit - 20
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Mad Chemist
+|family = bandits
+|base_level = 1.3
+|base_health = 280
+|highest_stat =
+*Strength - 28
+*Swiftness - 35
+*Discipline - 20
+*Spirit - 20
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Sr. Mad Chemist
+|family = bandits
+|base_level = 1.3
+|base_health = 280
+|highest_stat =
+*Strength - 28
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 20
+*Guile - 25
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Plunderer
+|family = bandits
+|base_level = 1.2
+|base_health = 190
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 25
+*Guile - 25
+*Accuracy - 92
+}}
+{{Monster_Template
+|title1 = Plunderer
+|family = bandits
+|base_level = 1.2
+|base_health = 1
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 25
+*Guile - 25
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Sr. Plunderer
+|family = bandits
+|base_level = 1.3
+|base_health = 250
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 25
+*Guile - 25
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Panthox
+|family = beasts
+|base_level = 1.2
+|base_health = 230
+|highest_stat =
+*Strength - 24
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 25
+*Guile - 28
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = River Spirit
+|family = spirits
+|base_level = 1.4
+|base_health = 340
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 25
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Rock Viper
+|family = snakes
+|base_level = 1.4
+|base_health = 340
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 25
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Lava Viper
+|family = snakes
+|base_level = 1.4
+|base_health = 340
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 35
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Mottled Sandjaw
+|family = beasts
+|base_level = 1.4
+|base_health = 350
+|highest_stat =
+*Strength - 40
+*Swiftness - 30
+*Discipline - 23
+*Spirit - 20
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Mottled Sandjaw
+|family = beasts
+|base_level = 1.4
+|base_health = 350
+|highest_stat =
+*Strength - 40
+*Swiftness - 30
+*Discipline - 23
+*Spirit - 20
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Treasure Hunter
+|family = bandits
+|base_level = 1.4
+|base_health = 330
+|highest_stat =
+*Strength - 35
+*Swiftness - 40
+*Discipline - 30
+*Spirit - 25
+*Guile - 35
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Ember Spirit
+|family = spirits
+|base_level = 1.5
+|base_health = 410
+|highest_stat =
+*Strength - 28
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 35
+*Guile - 35
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Jade Salamander
+|family = beasts
+|base_level = 1.5
+|base_health = 460
+|highest_stat =
+*Strength - 40
+*Swiftness - 40
+*Discipline - 40
+*Spirit - 40
+*Guile - 40
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Quillkin
+|family = hybrids
+|base_level = 1.1
+|base_health = 130
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 80
+}}
+{{Monster_Template
+|title1 = Spinebro
+|family = hybrids
+|base_level = 1.2
+|base_health = 180
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Spitting Plant
+|family = hybrids
+|base_level = 0
+|base_health = 50
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 85
+}}
+{{Monster_Template
+|title1 = Sentry Assembler
+|family = robots
+|base_level = 1.5
+|base_health = 700
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Guardian Quadriped
+|family = robots
+|base_level = 1.6
+|base_health = 1300
+|highest_stat =
+*Strength - 65
+*Swiftness - 45
+*Discipline - 45
+*Spirit - 45
+*Guile - 40
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Guardian Quadriped
+|family = robots
+|base_level = 1.6
+|base_health = 1400
+|highest_stat =
+*Strength - 65
+*Swiftness - 45
+*Discipline - 45
+*Spirit - 45
+*Guile - 40
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Summoned Bonecrab
+|family = hybrids
+|base_level = 0
+|base_health = 40
+|highest_stat =
+*Strength - 20
+*Swiftness - 15
+*Discipline - 15
+*Spirit - 15
+*Guile - 15
+*Accuracy - 75
+}}
+{{Monster_Template
+|title1 = Floraconda
+|family = hybrids
+|base_level = 1.3
+|base_health = 75
+|highest_stat =
+*Strength - 18
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 20
+*Guile - 25
+*Accuracy - 85
+}}
+{{Monster_Template
+|title1 = Summoned Bull Floraconda
+|family = hybrids
+|base_level = 1.3
+|base_health = 75
+|highest_stat =
+*Strength - 25
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 20
+*Guile - 25
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Sentry Bot
+|family = robots
+|base_level = 1.6
+|base_health = 350
+|highest_stat =
+*Strength - 28
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 20
+*Guile - 25
+*Accuracy - 75
+}}
+{{Monster_Template
+|title1 = Heavy Support Sentry
+|family = robots
+|base_level = 1.6
+|base_health = 500
+|highest_stat =
+*Strength - 28
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 20
+*Guile - 25
+*Accuracy - 75
+}}
+{{Monster_Template
+|title1 = Wraith
+|family = spirits
+|base_level = 1.5
+|base_health = 510
+|highest_stat =
+*Strength - 35
+*Swiftness - 35
+*Discipline - 30
+*Spirit - 30
+*Guile - 40
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Guardian Lurker
+|family = robots
+|base_level = 1.4
+|base_health = 420
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Guardian Sphere
+|family = robots
+|base_level = 1.4
+|base_health = 420
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Bandit Brigand
+|family = bandits
+|base_level = 1.4
+|base_health = 420
+|highest_stat =
+*Strength - 25
+*Swiftness - 35
+*Discipline - 25
+*Spirit - 25
+*Guile - 35
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Vine Stalker
+|family = insects
+|base_level = 1.4
+|base_health = 420
+|highest_stat =
+*Strength - 40
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Guardian Arachnoid
+|family = robots
+|base_level = 1.5
+|base_health = 680
+|highest_stat =
+*Strength - 45
+*Swiftness - 45
+*Discipline - 35
+*Spirit - 35
+*Guile - 45
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Demon Spirit
+|family = spirits
+|base_level = 1.5
+|base_health = 950
+|highest_stat =
+*Strength - 38
+*Swiftness - 38
+*Discipline - 38
+*Spirit - 38
+*Guile - 38
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Duke Dirtbeak
+|family = bandits
+|base_level = 1.3
+|base_health = 700
+|highest_stat =
+*Strength - 32
+*Swiftness - 32
+*Discipline - 32
+*Spirit - 32
+*Guile - 30
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = King's Ranger
+|family = bandits
+|base_level = 1.5
+|base_health = 430
+|highest_stat =
+*Strength - 30
+*Swiftness - 48
+*Discipline - 30
+*Spirit - 35
+*Guile - 35
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = King's Mage
+|family = bandits
+|base_level = 1.5
+|base_health = 500
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 35
+*Spirit - 40
+*Guile - 35
+*Accuracy - 80
+}}
+{{Monster_Template
+|title1 = Battousai
+|family = bandits
+|base_level = 1.6
+|base_health = 600
+|highest_stat =
+*Strength - 35
+*Swiftness - 38
+*Discipline - 30
+*Spirit - 38
+*Guile - 45
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Guardian Seeker
+|family = robots
+|base_level = 1.5
+|base_health = 500
+|highest_stat =
+*Strength - 30
+*Swiftness - 50
+*Discipline - 30
+*Spirit - 30
+*Guile - 50
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Thunder Spirit
+|family = spirits
+|base_level = 1.5
+|base_health = 510
+|highest_stat =
+*Strength - 30
+*Swiftness - 50
+*Discipline - 30
+*Spirit - 30
+*Guile - 50
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Grizzled Komodon
+|family = beasts
+|base_level = 1.5
+|base_health = 490
+|highest_stat =
+*Strength - 40
+*Swiftness - 40
+*Discipline - 40
+*Spirit - 40
+*Guile - 40
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Guardian Arachnoid
+|family = robots
+|base_level = 1.5
+|base_health = 510
+|highest_stat =
+*Strength - 35
+*Swiftness - 35
+*Discipline - 35
+*Spirit - 35
+*Guile - 35
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Bandit Spellshaper
+|family = bandits
+|base_level = 1.5
+|base_health = 510
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 35
+*Spirit - 35
+*Guile - 30
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Bandit Buffslinger
+|family = bandits
+|base_level = 1.5
+|base_health = 500
+|highest_stat =
+*Strength - 30
+*Swiftness - 25
+*Discipline - 35
+*Spirit - 35
+*Guile - 30
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Craggan
+|family = hybrids
+|base_level = 1.6
+|base_health = 610
+|highest_stat =
+*Strength - 45
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Verdigrizzly
+|family = hybrids
+|base_level = 1.7
+|base_health = 710
+|highest_stat =
+*Strength - 40
+*Swiftness - 20
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Verdigrizzly
+|family = hybrids
+|base_level = 1.8
+|base_health = 1500
+|highest_stat =
+*Strength - 40
+*Swiftness - 40
+*Discipline - 40
+*Spirit - 40
+*Guile - 40
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Destroyer
+|family = robots
+|base_level = 1.8
+|base_health = 850
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Destroyer
+|family = robots
+|base_level = 1.8
+|base_health = 1300
+|highest_stat =
+*Strength - 40
+*Swiftness - 40
+*Discipline - 40
+*Spirit - 35
+*Guile - 35
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Supervisor Z-99
+|family = robots
+|base_level = 1.8
+|base_health = 2500
+|highest_stat =
+*Strength - 50
+*Swiftness - 50
+*Discipline - 2
+*Spirit - 50
+*Guile - 50
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Frosted Jelly
+|family = jelly
+|base_level = 1.7
+|base_health = 950
+|highest_stat =
+*Strength - 40
+*Swiftness - 35
+*Discipline - 40
+*Spirit - 33
+*Guile - 40
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Frosted Jelly
+|family = jelly
+|base_level = 1.7
+|base_health = 710
+|highest_stat =
+*Strength - 40
+*Swiftness - 25
+*Discipline - 40
+*Spirit - 33
+*Guile - 40
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Mini Frosted Jelly
+|family = jelly
+|base_level = 1.6
+|base_health = 180
+|highest_stat =
+*Strength - 10
+*Swiftness - 10
+*Discipline - 10
+*Spirit - 10
+*Guile - 10
+*Accuracy - 80
+}}
+{{Monster_Template
+|title1 = Demon Spirit
+|family = spirits
+|base_level = 1.6
+|base_health = 600
+|highest_stat =
+*Strength - 35
+*Swiftness - 35
+*Discipline - 35
+*Spirit - 35
+*Guile - 35
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Sludge Spirit
+|family = spirits
+|base_level = 1.6
+|base_health = 600
+|highest_stat =
+*Strength - 45
+*Swiftness - 20
+*Discipline - 40
+*Spirit - 30
+*Guile - 15
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Shadow Clone
+|family = spirits
+|base_level = 999
+|base_health = 1
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 0
+}}
+{{Monster_Template
+|title1 = Shadow Clone
+|family = spirits
+|base_level = 999
+|base_health = 1
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Spirit Wolf
+|family = beasts
+|base_level = 1.3
+|base_health = 200
+|highest_stat =
+*Strength - 28
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 25
+*Guile - 25
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Ancient One
+|family = hybrids
+|base_level = 1.9
+|base_health = 3500
+|highest_stat =
+*Strength - 50
+*Swiftness - 50
+*Discipline - 50
+*Spirit - 50
+*Guile - 50
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Dark Panthox
+|family = beasts
+|base_level = 1.7
+|base_health = 710
+|highest_stat =
+*Strength - 40
+*Swiftness - 40
+*Discipline - 20
+*Spirit - 25
+*Guile - 40
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Dark Panthox
+|family = beasts
+|base_level = 1.7
+|base_health = 950
+|highest_stat =
+*Strength - 40
+*Swiftness - 40
+*Discipline - 20
+*Spirit - 25
+*Guile - 40
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Summoned Mini-Panthox
+|family = beasts
+|base_level = 1.2
+|base_health = 120
+|highest_stat =
+*Strength - 24
+*Swiftness - 30
+*Discipline - 20
+*Spirit - 25
+*Guile - 28
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Goldfrog
+|family = frogs
+|base_level = 1.0
+|base_health = 100
+|highest_stat =
+*Strength - 30
+*Swiftness - 50
+*Discipline - 30
+*Spirit - 30
+*Guile - 50
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Runic Crystal
+|family = hybrids
+|base_level = 999
+|base_health = 75
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Fungal Column
+|family = hybrids
+|base_level = 1.4
+|base_health = 100
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 25
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Item Dream Crystal
+|family = hybrids
+|base_level = 1.4
+|base_health = 250
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 25
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Nightmare Crystal
+|family = hybrids
+|base_level = 1.4
+|base_health = 250
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 25
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Barrier Generator
+|family = robots
+|base_level = 999
+|base_health = 800
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Summoned Fungal Toad
+|family = frogs
+|base_level = 1.4
+|base_health = 220
+|highest_stat =
+*Strength - 20
+*Swiftness - 25
+*Discipline - 20
+*Spirit - 20
+*Guile - 20
+*Accuracy - 85
+}}
+{{Monster_Template
+|title1 = Soulshade
+|family = spirits
+|base_level = 1.0
+|base_health = 25
+|highest_stat =
+*Strength - 25
+*Swiftness - 25
+*Discipline - 25
+*Spirit - 25
+*Guile - 25
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Friendly River Spirit
+|family = spirits
+|base_level = 1.0
+|base_health = 125
+|highest_stat =
+*Strength - 25
+*Swiftness - 25
+*Discipline - 25
+*Spirit - 25
+*Guile - 25
+*Accuracy - 70
+}}
+{{Monster_Template
+|title1 = Friendly Mud Spirit
+|family = spirits
+|base_level = 1.0
+|base_health = 125
+|highest_stat =
+*Strength - 25
+*Swiftness - 25
+*Discipline - 25
+*Spirit - 25
+*Guile - 25
+*Accuracy - 70
+}}
+{{Monster_Template
+|title1 = Friendly Thunder Spirit
+|family = spirits
+|base_level = 1.0
+|base_health = 125
+|highest_stat =
+*Strength - 25
+*Swiftness - 25
+*Discipline - 25
+*Spirit - 25
+*Guile - 25
+*Accuracy - 70
+}}
+{{Monster_Template
+|title1 = Friendly Ember Spirit
+|family = spirits
+|base_level = 1.0
+|base_health = 125
+|highest_stat =
+*Strength - 25
+*Swiftness - 25
+*Discipline - 25
+*Spirit - 25
+*Guile - 25
+*Accuracy - 70
+}}
+{{Monster_Template
+|title1 = Phasma Emitter
+|family = robots
+|base_level = 1.5
+|base_health = 700
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Barrier Crystal
+|family = robots
+|base_level = 1.4
+|base_health = 400
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 25
+*Guile - 25
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Medi-Ray Dispatcher
+|family = robots
+|base_level = 1.5
+|base_health = 500
+|highest_stat =
+*Strength - 30
+*Swiftness - 25
+*Discipline - 35
+*Spirit - 35
+*Guile - 30
+*Accuracy - 90
+}}
+{{Monster_Template
+|title1 = Guardian XA1
+|family = robots
+|base_level = 1.8
+|base_health = 2000
+|highest_stat =
+*Strength - 50
+*Swiftness - 50
+*Discipline - 50
+*Spirit - 50
+*Guile - 50
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Guardian XA2
+|family = robots
+|base_level = 1.8
+|base_health = 2000
+|highest_stat =
+*Strength - 50
+*Swiftness - 50
+*Discipline - 50
+*Spirit - 50
+*Guile - 50
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Research Overseer
+|family = robots
+|base_level = 1.8
+|base_health = 2000
+|highest_stat =
+*Strength - 50
+*Swiftness - 50
+*Discipline - 50
+*Spirit - 50
+*Guile - 50
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Power Assembler
+|family = robots
+|base_level = 1.5
+|base_health = 700
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Power Assembler
+|family = robots
+|base_level = 1.6
+|base_health = 600
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Regenerator
+|family = robots
+|base_level = 1.5
+|base_health = 99999
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Regenerator
+|family = robots
+|base_level = 1.5
+|base_health = 700
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Guardian Orbiter
+|family = robots
+|base_level = 1.8
+|base_health = 825
+|highest_stat =
+*Strength - 35
+*Swiftness - 35
+*Discipline - 35
+*Spirit - 35
+*Guile - 35
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Heavy Golem
+|family = robots
+|base_level = 1.8
+|base_health = 840
+|highest_stat =
+*Strength - 45
+*Swiftness - 40
+*Discipline - 40
+*Spirit - 40
+*Guile - 40
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Corrupted River Spirit
+|family = spirits
+|base_level = 1.8
+|base_health = 980
+|highest_stat =
+*Strength - 45
+*Swiftness - 45
+*Discipline - 45
+*Spirit - 55
+*Guile - 55
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Corrupted Jelly
+|family = jelly
+|base_level = 1.8
+|base_health = 1000
+|highest_stat =
+*Strength - 40
+*Swiftness - 25
+*Discipline - 40
+*Spirit - 65
+*Guile - 40
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Corrupted Battousai
+|family = bandits
+|base_level = 1.8
+|base_health = 950
+|highest_stat =
+*Strength - 45
+*Swiftness - 50
+*Discipline - 50
+*Spirit - 50
+*Guile - 50
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Corrupted Airacudas
+|family = beasts
+|base_level = 1.8
+|base_health = 1000
+|highest_stat =
+*Strength - 45
+*Swiftness - 45
+*Discipline - 45
+*Spirit - 45
+*Guile - 45
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Bandit Sniper
+|family = bandits
+|base_level = 1.8
+|base_health = 800
+|highest_stat =
+*Strength - 35
+*Swiftness - 45
+*Discipline - 35
+*Spirit - 35
+*Guile - 45
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Neutralizer
+|family = robots
+|base_level = 1.8
+|base_health = 800
+|highest_stat =
+*Strength - 30
+*Swiftness - 50
+*Discipline - 40
+*Spirit - 40
+*Guile - 50
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Inferno Spirit
+|family = spirits
+|base_level = 1.5
+|base_health = 820
+|highest_stat =
+*Strength - 35
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 35
+*Guile - 35
+*Accuracy - 100
+}}
+{{Monster_Template
+|title1 = Pet Monster
+|family = beasts
+|base_level = 1.0
+|base_health = 100
+|highest_stat =
+*Strength - 20
+*Swiftness - 20
+*Discipline - 20
+*Spirit - 20
+*Guile - 20
+*Accuracy - 50
+}}
+{{Monster_Template
+|title1 = Shadow Turret
+|family = hybrids
+|base_level = 0
+|base_health = 150
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 85
+}}
+{{Monster_Template
+|title1 = Darkfrog
+|family = frogs
+|base_level = 1.0
+|base_health = 200
+|highest_stat =
+*Strength - 30
+*Swiftness - 50
+*Discipline - 30
+*Spirit - 30
+*Guile - 50
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = ~ Nightmare Queen ~
+|family = hybrids
+|base_level = 1.0
+|base_health = 999
+|highest_stat =
+*Strength - 30
+*Swiftness - 50
+*Discipline - 30
+*Spirit - 30
+*Guile - 50
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Shara Colossus
+|family = hybrids
+|base_level = 1.9
+|base_health = 3500
+|highest_stat =
+*Strength - 55
+*Swiftness - 55
+*Discipline - 55
+*Spirit - 55
+*Guile - 55
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Heavy Fighter Sentry
+|family = robots
+|base_level = 1.7
+|base_health = 400
+|highest_stat =
+*Strength - 40
+*Swiftness - 40
+*Discipline - 40
+*Spirit - 40
+*Guile - 40
+*Accuracy - 96
+}}
+{{Monster_Template
+|title1 = Heavy Fighter Sentry
+|family = robots
+|base_level = 1.7
+|base_health = 600
+|highest_stat =
+*Strength - 40
+*Swiftness - 40
+*Discipline - 40
+*Spirit - 40
+*Guile - 40
+*Accuracy - 96
+}}
+{{Monster_Template
+|title1 = Phasma Orbiter
+|family = robots
+|base_level = 1.5
+|base_health = 50
+|highest_stat =
+*Strength - 30
+*Swiftness - 25
+*Discipline - 35
+*Spirit - 35
+*Guile - 30
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Target Dummy
+|family = hybrids
+|base_level = 1
+|base_health = 99999
+|highest_stat =
+*Strength - 25
+*Swiftness - 15
+*Discipline - 12
+*Spirit - 15
+*Guile - 5
+*Accuracy - 1
+}}
+{{Monster_Template
+|title1 = Duke Dirtbeak
+|family = bandits
+|base_level = 1.6
+|base_health = 1100
+|highest_stat =
+*Strength - 45
+*Swiftness - 45
+*Discipline - 45
+*Spirit - 45
+*Guile - 45
+*Accuracy - 99
+}}
+{{Monster_Template
+|title1 = Summoned Bog Frog
+|family = frogs
+|base_level = 1.5
+|base_health = 350
+|highest_stat =
+*Strength - 30
+*Swiftness - 30
+*Discipline - 30
+*Spirit - 30
+*Guile - 30
+*Accuracy - 95
+}}
+{{Monster_Template
+|title1 = Mighty Panthrox
+|family = beasts
+|base_level = 1.9
+|base_health = 4000
+|highest_stat =
+*Strength - 60
+*Swiftness - 60
+*Discipline - 60
+*Spirit - 60
+*Guile - 60
+*Accuracy - 99
+}}
