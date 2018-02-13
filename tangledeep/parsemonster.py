@@ -1,7 +1,7 @@
 from lxml import etree
 import re
 
-monsterList = etree.parse('./monsters.xml')
+monsterList = etree.parse('./monster.xml')
 
 output = "{{Monster_Template\n\
 |title1 = %%Name%%\n\
