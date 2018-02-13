@@ -25,23 +25,23 @@ def findSideAreas(floorNum):
                 output.append(dungeon)
     return output
 
-#def printDungeonStats(dungeon):
+def printDungeonTitle(dungeon):
+    if dungeon.findtext('CustomName'):
+        print("== "+dungeon.findtext('CustomName')+" ==")
+    else:
+        print("== DREAM WORLD ==")
+    if dungeon.find('TextOverlay') is not None:
+        print(dungeon.find('TextOverlay').findtext('Name'))
+        print(dungeon.find('TextOverlay').findtext('Text'))
 
-def printMonsters(spawnTableName):
-    spawnTable = findSpawnTable(spawnTableName)
-    if spawnTable is not None:
-        print("=== Monsters ===")
-        for monster in spawnTable.findall('.//ActorRefs/*'):
-            print("* [["+findMonsterName(monster.tag)+"]] "+monster.text)
+def printDungeonStats(dungeon):
+    def my_replace(elementName):
+        elementName = elementName.group()[2:-2]
+        if dungeon.find(elementName) is not None:
+            return dungeon.find(elementName).text
+        return "0"
 
-def printSideAreas(currentFloor):
-    sideAreaList = findSideAreas(currentFloor)
-    if sideAreaList != []:
-        print("=== Side Areas ===")
-        for sideArea in sideAreaList:
-            print("* [["+sideArea.findtext('CustomName')+"]]")
-
-output = "{{== %%CustomName%% ==\n\
+    output = "\
 {| class=\"article-table\" border=\"1\"\n\
 |Maximum Secret Areas\n\
 |%%MaxSecretAreas%%\n\
@@ -59,20 +59,32 @@ output = "{{== %%CustomName%% ==\n\
 |%%MaxChampionMods%%\n\
 |}"
 
-print(output)
+    if dungeon.find('MaxMonsters') is not None:
+        output = re.sub(r'%%(\w+)%%', my_replace, output)
+        print(output)
+    else:
+        print("No monsters in this area")
+
+def printMonsters(dungeon):
+    spawnTableName = dungeon.findtext('SpawnTable')
+    spawnTable = findSpawnTable(spawnTableName)
+    if spawnTable is not None:
+        print("=== Monsters ===")
+        for monster in spawnTable.findall('.//ActorRefs/*'):
+            print("* [["+findMonsterName(monster.tag)+"]] "+monster.text)
+
+def printSideAreas(dungeon):
+    currentFloor = dungeon.findtext('Level')
+    sideAreaList = findSideAreas(currentFloor)
+    if sideAreaList != []:
+        print("=== Side Areas ===")
+        for sideArea in sideAreaList:
+            print("* [["+sideArea.findtext('CustomName')+"]]")
+
+#def printNPCs(dungeon):
 
 for dungeon in dungeonList.iter("Floor"):
-
-    def my_replace(elementName):
-        elementName = elementName.group()[2:-2]
-        if dungeon.find(elementName) is not None:
-            return dungeon.find(elementName).text
-        return "0"
-
-    newoutput = output
-    newoutput = re.sub(r'%%(\w+)%%', my_replace, newoutput)
-
-    print(newoutput)
-
-    printMonsters(dungeon.findtext('SpawnTable'))
-    printSideAreas(dungeon.findtext('Level'))
+    printDungeonTitle(dungeon)
+    printDungeonStats(dungeon)
+    printMonsters(dungeon)
+    printSideAreas(dungeon)
