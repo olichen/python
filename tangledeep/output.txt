@@ -1,150 +1,37 @@
-{{== %%CustomName%% ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|%%MaxSecretAreas%%
-|-
-|Minimum Monsters
-|%%MinMonsters%%
-|-
-|Maximum Monsters
-|%%MaxMonsters%%
-|-
-|Maximum Champions
-|%%MaxChampions%%
-|-
-|Maximum Champion Mods
-|%%MaxChampionMods%%
-|}
-{{== Katie's Enclave ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Bandit Storeroom ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Frog Bog ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
+== Katie's Enclave ==
+This is a [[Side Area]]
+
+== Bandit Storeroom ==
+This is a [[Side Area]]
+
+== Frog Bog ==
+This is a [[Side Area]]
+Clear to receive a reward
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-{{== Lava Pit ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Off the Beaten Path ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Hildegarde's Deli ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Bottles and Brews ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
+* [[Moss Jelly]] 6
+* [[Mold-Infested Vermin]] 10
+* [[Electric Jelly]] 10
+* [[Fire Jelly]] 10
+
+== Lava Pit ==
+This is a [[Side Area]]
+
+== Off the Beaten Path ==
+This is a [[Side Area]]
+
+== Hildegarde's Deli ==
+This is a [[Side Area]]
+
+== Bottles and Brews ==
+This is a [[Side Area]]
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-{{== Elemental Lair 1F ==
+* [[Moss Jelly]] 6
+* [[Mold-Infested Vermin]] 10
+* [[Electric Jelly]] 10
+* [[Fire Jelly]] 10
+
+== Elemental Lair 1F ==
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |1
@@ -162,10 +49,14 @@
 |3
 |}
 === Monsters ===
-* [[mon_youngwaterelemental]]
-* [[mon_youngfireelemental]]
-* [[mon_younglightningelemental]]
-{{== Elemental Lair 2F ==
+* [[River Spirit]] 25
+* [[Ember Spirit]] 25
+* [[Thunder Spirit]] 12
+=== NPCs ===
+* [[Jorito (Armor Master)]]
+
+== Elemental Lair 2F ==
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |2
@@ -183,12 +74,15 @@
 |3
 |}
 === Monsters ===
-* [[mon_youngwaterelemental]]
-* [[mon_youngfireelemental]]
-* [[mon_younglightningelemental]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-{{== Elemental Lair 3F ==
+* [[River Spirit]] 15
+* [[Ember Spirit]] 20
+* [[Thunder Spirit]] 20
+* [[Sludge Spirit]] 10
+* [[Demon Spirit]] 3
+
+== Elemental Lair 3F ==
+This is a [[Side Area]]
+Clear to receive a reward
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |1
@@ -206,30 +100,17 @@
 |3
 |}
 === Monsters ===
-* [[mon_youngwaterelemental]]
-* [[mon_youngfireelemental]]
-* [[mon_younglightningelemental]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-{{== The Casino ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Flooded Temple 1F ==
+* [[River Spirit]] 5
+* [[Ember Spirit]] 11
+* [[Thunder Spirit]] 18
+* [[Sludge Spirit]] 20
+* [[Demon Spirit]] 20
+* [[Craggan]] 20
+
+== The Casino ==
+
+== Flooded Temple 1F ==
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |1
@@ -247,19 +128,22 @@
 |2
 |}
 === Monsters ===
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_toxicurchin]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_livingvine]]
-{{== Flooded Temple 2F ==
+* [[Electric Jelly]] 3
+* [[Fire Jelly]] 3
+* [[Cave Stalker]] 4
+* [[Quillkin]] 4
+* [[Fungal Toad]] 10
+* [[Airacudas]] 11
+* [[Crabbid]] 10
+* [[Panthox]] 20
+* [[Goliath Beetle]] 20
+* [[Plunderer]] 20
+* [[Bog Frog]] 7
+* [[Floraconda]] 5
+
+== Flooded Temple 2F ==
+This is a [[Side Area]]
+Clear to receive a reward
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -277,17 +161,19 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-{{== Bandit Enclave 1F ==
+* [[Panthox]] 10
+* [[Goliath Beetle]] 10
+* [[Plunderer]] 15
+* [[Bog Frog]] 15
+* [[Mad Chemist]] 15
+* [[Floraconda]] 15
+* [[Treasure Hunter]] 20
+* [[River Spirit]] 10
+* [[Rock Viper]] 10
+* [[Mottled Sandjaw]] 10
+
+== Bandit Enclave 1F ==
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |1
@@ -305,12 +191,16 @@
 |3
 |}
 === Monsters ===
-* [[mon_plunderer]]
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_ghostsamurai]]
-* [[mon_banditspellshaper]]
-{{== Bandit Enclave 2F ==
+* [[Plunderer]] 12
+* [[Mad Chemist]] 14
+* [[Treasure Hunter]] 10
+* [[Wraith]] 5
+* [[Bandit Spellshaper]] 2
+=== NPCs ===
+* [[Bezo]]
+
+== Bandit Enclave 2F ==
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |1
@@ -328,13 +218,16 @@
 |3
 |}
 === Monsters ===
-* [[mon_plunderer]]
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_ghostsamurai]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-{{== Bandit Enclave 3F ==
+* [[Plunderer]] 12
+* [[Mad Chemist]] 14
+* [[Treasure Hunter]] 15
+* [[Wraith]] 7
+* [[Bandit Spellshaper]] 4
+* [[Battousai]] 2
+
+== Bandit Enclave 3F ==
+This is a [[Side Area]]
+Clear to receive a reward
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |1
@@ -352,13 +245,18 @@
 |3
 |}
 === Monsters ===
-* [[mon_plunderer]]
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_ghostsamurai]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-{{== Jelly Grotto ==
+* [[Plunderer]] 12
+* [[Mad Chemist]] 14
+* [[Treasure Hunter]] 17
+* [[Wraith]] 10
+* [[Bandit Spellshaper]] 8
+* [[Battousai]] 7
+=== NPCs ===
+* [[Bandit Lady]]
+
+== Jelly Grotto ==
+This is a [[Side Area]]
+Clear to receive a reward
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -376,72 +274,37 @@
 |1
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-{{== Applewood Grove ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
+* [[Moss Jelly]] 6
+* [[Mold-Infested Vermin]] 10
+* [[Electric Jelly]] 10
+* [[Fire Jelly]] 10
+=== NPCs ===
+* [[Jellyboo]]
+* [[Langdon]]
+
+== Applewood Grove ==
+This is a [[Side Area]]
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-{{== Pet Shoppe ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Bandit Library ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
+* [[Moss Jelly]] 6
+* [[Mold-Infested Vermin]] 10
+* [[Electric Jelly]] 10
+* [[Fire Jelly]] 10
+
+== Pet Shoppe ==
+This is a [[Side Area]]
+
+== Bandit Library ==
+This is a [[Side Area]]
+Clear to receive a reward
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-{{== 0 ==
+* [[Moss Jelly]] 6
+* [[Mold-Infested Vermin]] 10
+* [[Electric Jelly]] 10
+* [[Fire Jelly]] 10
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -459,11 +322,14 @@
 |2
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-{{== 0 ==
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -481,11 +347,14 @@
 |2
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-{{== 0 ==
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |2
@@ -503,11 +372,14 @@
 |2
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-{{== 0 ==
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -525,18 +397,21 @@
 |2
 |}
 === Monsters ===
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_toxicurchin]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-{{== 0 ==
+* [[Salamander]] 5
+* [[Grotto Flyer]] 5
+* [[Mold-Infested Vermin]] 7
+* [[Electric Jelly]] 6
+* [[Fire Jelly]] 6
+* [[Cave Stalker]] 5
+* [[Quillkin]] 3
+* [[Fungal Toad]] 7
+* [[Airacudas]] 6
+* [[Crabbid]] 6
+* [[Spinebro]] 3
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -554,18 +429,21 @@
 |2
 |}
 === Monsters ===
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_toxicurchin]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-{{== 0 ==
+* [[Salamander]] 5
+* [[Grotto Flyer]] 5
+* [[Mold-Infested Vermin]] 7
+* [[Electric Jelly]] 6
+* [[Fire Jelly]] 6
+* [[Cave Stalker]] 5
+* [[Quillkin]] 3
+* [[Fungal Toad]] 7
+* [[Airacudas]] 6
+* [[Crabbid]] 6
+* [[Spinebro]] 3
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |2
@@ -583,18 +461,21 @@
 |2
 |}
 === Monsters ===
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_toxicurchin]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-{{== 0 ==
+* [[Salamander]] 5
+* [[Grotto Flyer]] 5
+* [[Mold-Infested Vermin]] 7
+* [[Electric Jelly]] 6
+* [[Fire Jelly]] 6
+* [[Cave Stalker]] 5
+* [[Quillkin]] 3
+* [[Fungal Toad]] 7
+* [[Airacudas]] 6
+* [[Crabbid]] 6
+* [[Spinebro]] 3
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -612,18 +493,21 @@
 |2
 |}
 === Monsters ===
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_toxicurchin]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-{{== 0 ==
+* [[Salamander]] 2
+* [[Grotto Flyer]] 3
+* [[Mold-Infested Vermin]] 5
+* [[Electric Jelly]] 5
+* [[Fire Jelly]] 5
+* [[Cave Stalker]] 7
+* [[Quillkin]] 3
+* [[Fungal Toad]] 10
+* [[Airacudas]] 10
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -641,18 +525,21 @@
 |2
 |}
 === Monsters ===
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_toxicurchin]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-{{== 0 ==
+* [[Salamander]] 2
+* [[Grotto Flyer]] 3
+* [[Mold-Infested Vermin]] 5
+* [[Electric Jelly]] 5
+* [[Fire Jelly]] 5
+* [[Cave Stalker]] 7
+* [[Quillkin]] 3
+* [[Fungal Toad]] 10
+* [[Airacudas]] 10
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -670,18 +557,21 @@
 |2
 |}
 === Monsters ===
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_toxicurchin]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-{{== 0 ==
+* [[Salamander]] 2
+* [[Grotto Flyer]] 3
+* [[Mold-Infested Vermin]] 5
+* [[Electric Jelly]] 5
+* [[Fire Jelly]] 5
+* [[Cave Stalker]] 7
+* [[Quillkin]] 3
+* [[Fungal Toad]] 10
+* [[Airacudas]] 10
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -699,17 +589,20 @@
 |2
 |}
 === Monsters ===
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-{{== 0 ==
+* [[Electric Jelly]] 5
+* [[Fire Jelly]] 5
+* [[Cave Stalker]] 7
+* [[Fungal Toad]] 12
+* [[Airacudas]] 13
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+* [[Panthox]] 15
+* [[Goliath Beetle]] 15
+* [[Plunderer]] 6
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -727,17 +620,20 @@
 |2
 |}
 === Monsters ===
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-{{== 0 ==
+* [[Electric Jelly]] 5
+* [[Fire Jelly]] 5
+* [[Cave Stalker]] 7
+* [[Fungal Toad]] 12
+* [[Airacudas]] 13
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+* [[Panthox]] 15
+* [[Goliath Beetle]] 15
+* [[Plunderer]] 6
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |2
@@ -755,17 +651,20 @@
 |2
 |}
 === Monsters ===
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-{{== 0 ==
+* [[Electric Jelly]] 5
+* [[Fire Jelly]] 5
+* [[Cave Stalker]] 7
+* [[Fungal Toad]] 12
+* [[Airacudas]] 13
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+* [[Panthox]] 15
+* [[Goliath Beetle]] 15
+* [[Plunderer]] 6
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -783,14 +682,17 @@
 |2
 |}
 === Monsters ===
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-{{== 0 ==
+* [[Fungal Toad]] 10
+* [[Airacudas]] 11
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+* [[Panthox]] 20
+* [[Goliath Beetle]] 20
+* [[Plunderer]] 12
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -808,14 +710,17 @@
 |2
 |}
 === Monsters ===
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-{{== 0 ==
+* [[Fungal Toad]] 10
+* [[Airacudas]] 11
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+* [[Panthox]] 20
+* [[Goliath Beetle]] 20
+* [[Plunderer]] 12
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |2
@@ -833,14 +738,17 @@
 |2
 |}
 === Monsters ===
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-{{== 0 ==
+* [[Fungal Toad]] 10
+* [[Airacudas]] 11
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+* [[Panthox]] 20
+* [[Goliath Beetle]] 20
+* [[Plunderer]] 12
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -858,16 +766,19 @@
 |2
 |}
 === Monsters ===
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-{{== 0 ==
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+* [[Panthox]] 14
+* [[Goliath Beetle]] 14
+* [[Plunderer]] 17
+* [[Bog Frog]] 18
+* [[Mad Chemist]] 10
+* [[Floraconda]] 10
+* [[Treasure Hunter]] 4
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -885,16 +796,19 @@
 |2
 |}
 === Monsters ===
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-{{== 0 ==
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+* [[Panthox]] 14
+* [[Goliath Beetle]] 14
+* [[Plunderer]] 17
+* [[Bog Frog]] 18
+* [[Mad Chemist]] 10
+* [[Floraconda]] 10
+* [[Treasure Hunter]] 4
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -912,16 +826,19 @@
 |2
 |}
 === Monsters ===
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-{{== 0 ==
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+* [[Panthox]] 14
+* [[Goliath Beetle]] 14
+* [[Plunderer]] 17
+* [[Bog Frog]] 18
+* [[Mad Chemist]] 10
+* [[Floraconda]] 10
+* [[Treasure Hunter]] 4
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -939,14 +856,17 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-{{== 0 ==
+* [[Panthox]] 14
+* [[Goliath Beetle]] 14
+* [[Plunderer]] 17
+* [[Bog Frog]] 20
+* [[Mad Chemist]] 20
+* [[Floraconda]] 20
+* [[Treasure Hunter]] 10
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -964,14 +884,17 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-{{== 0 ==
+* [[Panthox]] 14
+* [[Goliath Beetle]] 14
+* [[Plunderer]] 17
+* [[Bog Frog]] 20
+* [[Mad Chemist]] 20
+* [[Floraconda]] 20
+* [[Treasure Hunter]] 10
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -989,14 +912,17 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-{{== 0 ==
+* [[Panthox]] 14
+* [[Goliath Beetle]] 14
+* [[Plunderer]] 17
+* [[Bog Frog]] 20
+* [[Mad Chemist]] 20
+* [[Floraconda]] 20
+* [[Treasure Hunter]] 10
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1014,17 +940,20 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-{{== 0 ==
+* [[Panthox]] 10
+* [[Goliath Beetle]] 10
+* [[Plunderer]] 14
+* [[Bog Frog]] 16
+* [[Mad Chemist]] 16
+* [[Floraconda]] 15
+* [[Treasure Hunter]] 20
+* [[River Spirit]] 13
+* [[Rock Viper]] 15
+* [[Mottled Sandjaw]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1042,17 +971,20 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-{{== 0 ==
+* [[Panthox]] 10
+* [[Goliath Beetle]] 10
+* [[Plunderer]] 14
+* [[Bog Frog]] 16
+* [[Mad Chemist]] 16
+* [[Floraconda]] 15
+* [[Treasure Hunter]] 20
+* [[River Spirit]] 13
+* [[Rock Viper]] 15
+* [[Mottled Sandjaw]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1070,17 +1002,20 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-{{== 0 ==
+* [[Panthox]] 10
+* [[Goliath Beetle]] 10
+* [[Plunderer]] 14
+* [[Bog Frog]] 16
+* [[Mad Chemist]] 16
+* [[Floraconda]] 15
+* [[Treasure Hunter]] 20
+* [[River Spirit]] 13
+* [[Rock Viper]] 15
+* [[Mottled Sandjaw]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1098,17 +1033,20 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-{{== 0 ==
+* [[Panthox]] 10
+* [[Goliath Beetle]] 10
+* [[Plunderer]] 14
+* [[Bog Frog]] 16
+* [[Mad Chemist]] 16
+* [[Floraconda]] 15
+* [[Treasure Hunter]] 20
+* [[River Spirit]] 13
+* [[Rock Viper]] 15
+* [[Mottled Sandjaw]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1126,19 +1064,22 @@
 |3
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-{{== 0 ==
+* [[Panthox]] 5
+* [[Goliath Beetle]] 5
+* [[Plunderer]] 10
+* [[Bog Frog]] 13
+* [[Mad Chemist]] 13
+* [[Floraconda]] 13
+* [[Treasure Hunter]] 20
+* [[River Spirit]] 20
+* [[Rock Viper]] 20
+* [[Mottled Sandjaw]] 20
+* [[Ember Spirit]] 5
+* [[Jade Salamander]] 5
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |2
@@ -1156,19 +1097,22 @@
 |3
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-{{== 0 ==
+* [[Panthox]] 5
+* [[Goliath Beetle]] 5
+* [[Plunderer]] 10
+* [[Bog Frog]] 13
+* [[Mad Chemist]] 13
+* [[Floraconda]] 13
+* [[Treasure Hunter]] 20
+* [[River Spirit]] 20
+* [[Rock Viper]] 20
+* [[Mottled Sandjaw]] 20
+* [[Ember Spirit]] 5
+* [[Jade Salamander]] 5
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1186,19 +1130,22 @@
 |3
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-{{== 0 ==
+* [[Panthox]] 5
+* [[Goliath Beetle]] 5
+* [[Plunderer]] 10
+* [[Bog Frog]] 13
+* [[Mad Chemist]] 13
+* [[Floraconda]] 13
+* [[Treasure Hunter]] 20
+* [[River Spirit]] 20
+* [[Rock Viper]] 20
+* [[Mottled Sandjaw]] 20
+* [[Ember Spirit]] 5
+* [[Jade Salamander]] 5
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1216,21 +1163,24 @@
 |3
 |}
 === Monsters ===
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-{{== 0 ==
+* [[Mad Chemist]] 6
+* [[Treasure Hunter]] 18
+* [[River Spirit]] 18
+* [[Rock Viper]] 18
+* [[Mottled Sandjaw]] 18
+* [[Ember Spirit]] 20
+* [[Jade Salamander]] 20
+* [[Guardian Sphere]] 15
+* [[Vine Stalker]] 20
+* [[Bandit Brigand]] 20
+* [[Guardian Lurker]] 10
+* [[Wraith]] 10
+* [[Thunder Spirit]] 20
+* [[Guardian Seeker]] 20
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1248,21 +1198,24 @@
 |3
 |}
 === Monsters ===
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-{{== 0 ==
+* [[Mad Chemist]] 6
+* [[Treasure Hunter]] 18
+* [[River Spirit]] 18
+* [[Rock Viper]] 18
+* [[Mottled Sandjaw]] 18
+* [[Ember Spirit]] 20
+* [[Jade Salamander]] 20
+* [[Guardian Sphere]] 15
+* [[Vine Stalker]] 20
+* [[Bandit Brigand]] 20
+* [[Guardian Lurker]] 10
+* [[Wraith]] 10
+* [[Thunder Spirit]] 20
+* [[Guardian Seeker]] 20
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1280,21 +1233,24 @@
 |3
 |}
 === Monsters ===
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-{{== 0 ==
+* [[Mad Chemist]] 6
+* [[Treasure Hunter]] 18
+* [[River Spirit]] 18
+* [[Rock Viper]] 18
+* [[Mottled Sandjaw]] 18
+* [[Ember Spirit]] 20
+* [[Jade Salamander]] 20
+* [[Guardian Sphere]] 15
+* [[Vine Stalker]] 20
+* [[Bandit Brigand]] 20
+* [[Guardian Lurker]] 10
+* [[Wraith]] 10
+* [[Thunder Spirit]] 20
+* [[Guardian Seeker]] 20
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1312,24 +1268,27 @@
 |3
 |}
 === Monsters ===
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-{{== 0 ==
+* [[Mad Chemist]] 3
+* [[Treasure Hunter]] 15
+* [[River Spirit]] 15
+* [[Rock Viper]] 15
+* [[Mottled Sandjaw]] 15
+* [[Ember Spirit]] 20
+* [[Jade Salamander]] 20
+* [[Guardian Sphere]] 20
+* [[Vine Stalker]] 20
+* [[Bandit Brigand]] 20
+* [[Guardian Lurker]] 20
+* [[Wraith]] 20
+* [[Thunder Spirit]] 20
+* [[Guardian Seeker]] 20
+* [[Guardian Arachnoid]] 10
+* [[Bandit Buffslinger]] 7
+* [[Bandit Spellshaper]] 7
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1347,24 +1306,27 @@
 |3
 |}
 === Monsters ===
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-{{== 0 ==
+* [[Mad Chemist]] 3
+* [[Treasure Hunter]] 15
+* [[River Spirit]] 15
+* [[Rock Viper]] 15
+* [[Mottled Sandjaw]] 15
+* [[Ember Spirit]] 20
+* [[Jade Salamander]] 20
+* [[Guardian Sphere]] 20
+* [[Vine Stalker]] 20
+* [[Bandit Brigand]] 20
+* [[Guardian Lurker]] 20
+* [[Wraith]] 20
+* [[Thunder Spirit]] 20
+* [[Guardian Seeker]] 20
+* [[Guardian Arachnoid]] 10
+* [[Bandit Buffslinger]] 7
+* [[Bandit Spellshaper]] 7
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1382,24 +1344,27 @@
 |3
 |}
 === Monsters ===
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-{{== 0 ==
+* [[Mad Chemist]] 3
+* [[Treasure Hunter]] 15
+* [[River Spirit]] 15
+* [[Rock Viper]] 15
+* [[Mottled Sandjaw]] 15
+* [[Ember Spirit]] 20
+* [[Jade Salamander]] 20
+* [[Guardian Sphere]] 20
+* [[Vine Stalker]] 20
+* [[Bandit Brigand]] 20
+* [[Guardian Lurker]] 20
+* [[Wraith]] 20
+* [[Thunder Spirit]] 20
+* [[Guardian Seeker]] 20
+* [[Guardian Arachnoid]] 10
+* [[Bandit Buffslinger]] 7
+* [[Bandit Spellshaper]] 7
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1417,26 +1382,29 @@
 |3
 |}
 === Monsters ===
-* [[mon_bandithunter]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-{{== 0 ==
+* [[Treasure Hunter]] 9
+* [[Rock Viper]] 9
+* [[Mottled Sandjaw]] 9
+* [[Ember Spirit]] 14
+* [[Jade Salamander]] 14
+* [[Guardian Sphere]] 14
+* [[Vine Stalker]] 14
+* [[Bandit Brigand]] 14
+* [[Guardian Lurker]] 14
+* [[Wraith]] 20
+* [[Thunder Spirit]] 20
+* [[Guardian Seeker]] 20
+* [[Bandit Spellshaper]] 20
+* [[Guardian Arachnoid]] 20
+* [[Bandit Buffslinger]] 20
+* [[Battousai]] 10
+* [[Sludge Spirit]] 10
+* [[Demon Spirit]] 10
+* [[Craggan]] 10
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1454,26 +1422,29 @@
 |3
 |}
 === Monsters ===
-* [[mon_bandithunter]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-{{== 0 ==
+* [[Treasure Hunter]] 9
+* [[Rock Viper]] 9
+* [[Mottled Sandjaw]] 9
+* [[Ember Spirit]] 14
+* [[Jade Salamander]] 14
+* [[Guardian Sphere]] 14
+* [[Vine Stalker]] 14
+* [[Bandit Brigand]] 14
+* [[Guardian Lurker]] 14
+* [[Wraith]] 20
+* [[Thunder Spirit]] 20
+* [[Guardian Seeker]] 20
+* [[Bandit Spellshaper]] 20
+* [[Guardian Arachnoid]] 20
+* [[Bandit Buffslinger]] 20
+* [[Battousai]] 10
+* [[Sludge Spirit]] 10
+* [[Demon Spirit]] 10
+* [[Craggan]] 10
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1491,26 +1462,29 @@
 |3
 |}
 === Monsters ===
-* [[mon_bandithunter]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-{{== 0 ==
+* [[Treasure Hunter]] 9
+* [[Rock Viper]] 9
+* [[Mottled Sandjaw]] 9
+* [[Ember Spirit]] 14
+* [[Jade Salamander]] 14
+* [[Guardian Sphere]] 14
+* [[Vine Stalker]] 14
+* [[Bandit Brigand]] 14
+* [[Guardian Lurker]] 14
+* [[Wraith]] 20
+* [[Thunder Spirit]] 20
+* [[Guardian Seeker]] 20
+* [[Bandit Spellshaper]] 20
+* [[Guardian Arachnoid]] 20
+* [[Bandit Buffslinger]] 20
+* [[Battousai]] 10
+* [[Sludge Spirit]] 10
+* [[Demon Spirit]] 10
+* [[Craggan]] 10
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1528,26 +1502,29 @@
 |3
 |}
 === Monsters ===
-* [[mon_bandithunter]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-{{== 0 ==
+* [[Treasure Hunter]] 5
+* [[Rock Viper]] 5
+* [[Mottled Sandjaw]] 5
+* [[Ember Spirit]] 11
+* [[Jade Salamander]] 11
+* [[Guardian Sphere]] 11
+* [[Vine Stalker]] 11
+* [[Bandit Brigand]] 11
+* [[Guardian Lurker]] 11
+* [[Wraith]] 18
+* [[Thunder Spirit]] 18
+* [[Guardian Seeker]] 18
+* [[Bandit Spellshaper]] 18
+* [[Guardian Arachnoid]] 18
+* [[Bandit Buffslinger]] 18
+* [[Battousai]] 20
+* [[Sludge Spirit]] 20
+* [[Demon Spirit]] 20
+* [[Craggan]] 20
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1565,26 +1542,29 @@
 |3
 |}
 === Monsters ===
-* [[mon_bandithunter]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-{{== 0 ==
+* [[Treasure Hunter]] 5
+* [[Rock Viper]] 5
+* [[Mottled Sandjaw]] 5
+* [[Ember Spirit]] 11
+* [[Jade Salamander]] 11
+* [[Guardian Sphere]] 11
+* [[Vine Stalker]] 11
+* [[Bandit Brigand]] 11
+* [[Guardian Lurker]] 11
+* [[Wraith]] 18
+* [[Thunder Spirit]] 18
+* [[Guardian Seeker]] 18
+* [[Bandit Spellshaper]] 18
+* [[Guardian Arachnoid]] 18
+* [[Bandit Buffslinger]] 18
+* [[Battousai]] 20
+* [[Sludge Spirit]] 20
+* [[Demon Spirit]] 20
+* [[Craggan]] 20
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1602,26 +1582,29 @@
 |3
 |}
 === Monsters ===
-* [[mon_bandithunter]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-{{== 0 ==
+* [[Treasure Hunter]] 5
+* [[Rock Viper]] 5
+* [[Mottled Sandjaw]] 5
+* [[Ember Spirit]] 11
+* [[Jade Salamander]] 11
+* [[Guardian Sphere]] 11
+* [[Vine Stalker]] 11
+* [[Bandit Brigand]] 11
+* [[Guardian Lurker]] 11
+* [[Wraith]] 18
+* [[Thunder Spirit]] 18
+* [[Guardian Seeker]] 18
+* [[Bandit Spellshaper]] 18
+* [[Guardian Arachnoid]] 18
+* [[Bandit Buffslinger]] 18
+* [[Battousai]] 20
+* [[Sludge Spirit]] 20
+* [[Demon Spirit]] 20
+* [[Craggan]] 20
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1639,26 +1622,29 @@
 |3
 |}
 === Monsters ===
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-{{== 0 ==
+* [[Ember Spirit]] 4
+* [[Jade Salamander]] 4
+* [[Guardian Sphere]] 6
+* [[Vine Stalker]] 6
+* [[Bandit Brigand]] 6
+* [[Guardian Lurker]] 6
+* [[Wraith]] 13
+* [[Thunder Spirit]] 13
+* [[Guardian Seeker]] 13
+* [[Guardian Arachnoid]] 13
+* [[Bandit Buffslinger]] 13
+* [[Bandit Spellshaper]] 13
+* [[Battousai]] 18
+* [[Sludge Spirit]] 18
+* [[Demon Spirit]] 18
+* [[Craggan]] 18
+* [[Dark Panthox]] 4
+* [[Verdigrizzly]] 4
+* [[Frosted Jelly]] 4
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1676,26 +1662,29 @@
 |3
 |}
 === Monsters ===
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-{{== 0 ==
+* [[Ember Spirit]] 4
+* [[Jade Salamander]] 4
+* [[Guardian Sphere]] 6
+* [[Vine Stalker]] 6
+* [[Bandit Brigand]] 6
+* [[Guardian Lurker]] 6
+* [[Wraith]] 13
+* [[Thunder Spirit]] 13
+* [[Guardian Seeker]] 13
+* [[Guardian Arachnoid]] 13
+* [[Bandit Buffslinger]] 13
+* [[Bandit Spellshaper]] 13
+* [[Battousai]] 18
+* [[Sludge Spirit]] 18
+* [[Demon Spirit]] 18
+* [[Craggan]] 18
+* [[Dark Panthox]] 4
+* [[Verdigrizzly]] 4
+* [[Frosted Jelly]] 4
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1713,26 +1702,29 @@
 |4
 |}
 === Monsters ===
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-{{== 0 ==
+* [[Ember Spirit]] 2
+* [[Jade Salamander]] 2
+* [[Guardian Sphere]] 3
+* [[Vine Stalker]] 3
+* [[Bandit Brigand]] 3
+* [[Guardian Lurker]] 3
+* [[Wraith]] 11
+* [[Thunder Spirit]] 11
+* [[Guardian Seeker]] 11
+* [[Guardian Arachnoid]] 11
+* [[Bandit Buffslinger]] 13
+* [[Bandit Spellshaper]] 11
+* [[Battousai]] 16
+* [[Sludge Spirit]] 16
+* [[Demon Spirit]] 16
+* [[Craggan]] 16
+* [[Dark Panthox]] 20
+* [[Verdigrizzly]] 20
+* [[Frosted Jelly]] 20
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |2
@@ -1750,26 +1742,29 @@
 |4
 |}
 === Monsters ===
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-{{== 0 ==
+* [[Ember Spirit]] 2
+* [[Jade Salamander]] 2
+* [[Guardian Sphere]] 3
+* [[Vine Stalker]] 3
+* [[Bandit Brigand]] 3
+* [[Guardian Lurker]] 3
+* [[Wraith]] 11
+* [[Thunder Spirit]] 11
+* [[Guardian Seeker]] 11
+* [[Guardian Arachnoid]] 11
+* [[Bandit Buffslinger]] 13
+* [[Bandit Spellshaper]] 11
+* [[Battousai]] 16
+* [[Sludge Spirit]] 16
+* [[Demon Spirit]] 16
+* [[Craggan]] 16
+* [[Dark Panthox]] 20
+* [[Verdigrizzly]] 20
+* [[Frosted Jelly]] 20
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1787,48 +1782,38 @@
 |4
 |}
 === Monsters ===
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-{{== Stalker Nest ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
+* [[Ember Spirit]] 2
+* [[Jade Salamander]] 2
+* [[Guardian Sphere]] 3
+* [[Vine Stalker]] 3
+* [[Bandit Brigand]] 3
+* [[Guardian Lurker]] 3
+* [[Wraith]] 11
+* [[Thunder Spirit]] 11
+* [[Guardian Seeker]] 11
+* [[Guardian Arachnoid]] 11
+* [[Bandit Buffslinger]] 13
+* [[Bandit Spellshaper]] 11
+* [[Battousai]] 16
+* [[Sludge Spirit]] 16
+* [[Demon Spirit]] 16
+* [[Craggan]] 16
+* [[Dark Panthox]] 20
+* [[Verdigrizzly]] 20
+* [[Frosted Jelly]] 20
+
+== Stalker Nest ==
+This is a [[Side Area]]
+Clear to receive a reward
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-{{== 0 ==
+* [[Moss Jelly]] 6
+* [[Mold-Infested Vermin]] 10
+* [[Electric Jelly]] 10
+* [[Fire Jelly]] 10
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1846,20 +1831,23 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-{{== 0 ==
+* [[Wraith]] 11
+* [[Thunder Spirit]] 10
+* [[Guardian Seeker]] 10
+* [[Guardian Arachnoid]] 11
+* [[Bandit Buffslinger]] 15
+* [[Bandit Spellshaper]] 14
+* [[Battousai]] 20
+* [[Sludge Spirit]] 20
+* [[Demon Spirit]] 20
+* [[Craggan]] 20
+* [[Dark Panthox]] 15
+* [[Verdigrizzly]] 15
+* [[Frosted Jelly]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1877,20 +1865,23 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-{{== 0 ==
+* [[Wraith]] 11
+* [[Thunder Spirit]] 10
+* [[Guardian Seeker]] 10
+* [[Guardian Arachnoid]] 11
+* [[Bandit Buffslinger]] 15
+* [[Bandit Spellshaper]] 14
+* [[Battousai]] 20
+* [[Sludge Spirit]] 20
+* [[Demon Spirit]] 20
+* [[Craggan]] 20
+* [[Dark Panthox]] 15
+* [[Verdigrizzly]] 15
+* [[Frosted Jelly]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1908,20 +1899,23 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-* [[mon_guardianspider]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-{{== 0 ==
+* [[Wraith]] 11
+* [[Thunder Spirit]] 10
+* [[Guardian Seeker]] 10
+* [[Guardian Arachnoid]] 11
+* [[Bandit Buffslinger]] 15
+* [[Bandit Spellshaper]] 14
+* [[Battousai]] 20
+* [[Sludge Spirit]] 20
+* [[Demon Spirit]] 20
+* [[Craggan]] 20
+* [[Dark Panthox]] 15
+* [[Verdigrizzly]] 15
+* [[Frosted Jelly]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1939,24 +1933,27 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_shadowelemental]]
-* [[mon_banditswordmaster]]
-* [[mon_rockgolem]]
-* [[mon_poisonelemental]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-* [[mon_destroyer]]
-* [[mon_guardianorbiter]]
-* [[mon_heavygolem]]
-* [[mon_banditsniper]]
-* [[mon_neutralizer]]
-{{== 0 ==
+* [[Wraith]] 6
+* [[Thunder Spirit]] 6
+* [[Bandit Buffslinger]] 6
+* [[Bandit Spellshaper]] 6
+* [[Guardian Arachnoid]] 6
+* [[Demon Spirit]] 8
+* [[Battousai]] 8
+* [[Craggan]] 8
+* [[Sludge Spirit]] 8
+* [[Dark Panthox]] 11
+* [[Verdigrizzly]] 11
+* [[Frosted Jelly]] 11
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -1974,24 +1971,27 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_shadowelemental]]
-* [[mon_banditswordmaster]]
-* [[mon_rockgolem]]
-* [[mon_poisonelemental]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-* [[mon_destroyer]]
-* [[mon_guardianorbiter]]
-* [[mon_heavygolem]]
-* [[mon_banditsniper]]
-* [[mon_neutralizer]]
-{{== 0 ==
+* [[Wraith]] 6
+* [[Thunder Spirit]] 6
+* [[Bandit Buffslinger]] 6
+* [[Bandit Spellshaper]] 6
+* [[Guardian Arachnoid]] 6
+* [[Demon Spirit]] 8
+* [[Battousai]] 8
+* [[Craggan]] 8
+* [[Sludge Spirit]] 8
+* [[Dark Panthox]] 11
+* [[Verdigrizzly]] 11
+* [[Frosted Jelly]] 11
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2009,24 +2009,27 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_shadowelemental]]
-* [[mon_banditswordmaster]]
-* [[mon_rockgolem]]
-* [[mon_poisonelemental]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-* [[mon_destroyer]]
-* [[mon_guardianorbiter]]
-* [[mon_heavygolem]]
-* [[mon_banditsniper]]
-* [[mon_neutralizer]]
-{{== 0 ==
+* [[Wraith]] 6
+* [[Thunder Spirit]] 6
+* [[Bandit Buffslinger]] 6
+* [[Bandit Spellshaper]] 6
+* [[Guardian Arachnoid]] 6
+* [[Demon Spirit]] 8
+* [[Battousai]] 8
+* [[Craggan]] 8
+* [[Sludge Spirit]] 8
+* [[Dark Panthox]] 11
+* [[Verdigrizzly]] 11
+* [[Frosted Jelly]] 11
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2044,24 +2047,27 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_shadowelemental]]
-* [[mon_banditswordmaster]]
-* [[mon_rockgolem]]
-* [[mon_poisonelemental]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-* [[mon_destroyer]]
-* [[mon_guardianorbiter]]
-* [[mon_heavygolem]]
-* [[mon_banditsniper]]
-* [[mon_neutralizer]]
-{{== 0 ==
+* [[Wraith]] 4
+* [[Thunder Spirit]] 4
+* [[Bandit Buffslinger]] 4
+* [[Bandit Spellshaper]] 4
+* [[Guardian Arachnoid]] 4
+* [[Demon Spirit]] 6
+* [[Battousai]] 6
+* [[Craggan]] 6
+* [[Sludge Spirit]] 6
+* [[Dark Panthox]] 9
+* [[Verdigrizzly]] 9
+* [[Frosted Jelly]] 9
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2079,24 +2085,27 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_shadowelemental]]
-* [[mon_banditswordmaster]]
-* [[mon_rockgolem]]
-* [[mon_poisonelemental]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-* [[mon_destroyer]]
-* [[mon_guardianorbiter]]
-* [[mon_heavygolem]]
-* [[mon_banditsniper]]
-* [[mon_neutralizer]]
-{{== 0 ==
+* [[Wraith]] 4
+* [[Thunder Spirit]] 4
+* [[Bandit Buffslinger]] 4
+* [[Bandit Spellshaper]] 4
+* [[Guardian Arachnoid]] 4
+* [[Demon Spirit]] 6
+* [[Battousai]] 6
+* [[Craggan]] 6
+* [[Sludge Spirit]] 6
+* [[Dark Panthox]] 9
+* [[Verdigrizzly]] 9
+* [[Frosted Jelly]] 9
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2114,24 +2123,27 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_shadowelemental]]
-* [[mon_banditswordmaster]]
-* [[mon_rockgolem]]
-* [[mon_poisonelemental]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-* [[mon_destroyer]]
-* [[mon_guardianorbiter]]
-* [[mon_heavygolem]]
-* [[mon_banditsniper]]
-* [[mon_neutralizer]]
-{{== 0 ==
+* [[Wraith]] 4
+* [[Thunder Spirit]] 4
+* [[Bandit Buffslinger]] 4
+* [[Bandit Spellshaper]] 4
+* [[Guardian Arachnoid]] 4
+* [[Demon Spirit]] 6
+* [[Battousai]] 6
+* [[Craggan]] 6
+* [[Sludge Spirit]] 6
+* [[Dark Panthox]] 9
+* [[Verdigrizzly]] 9
+* [[Frosted Jelly]] 9
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2149,24 +2161,27 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_shadowelemental]]
-* [[mon_banditswordmaster]]
-* [[mon_rockgolem]]
-* [[mon_poisonelemental]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-* [[mon_destroyer]]
-* [[mon_guardianorbiter]]
-* [[mon_heavygolem]]
-* [[mon_banditsniper]]
-* [[mon_neutralizer]]
-{{== 0 ==
+* [[Wraith]] 2
+* [[Thunder Spirit]] 2
+* [[Bandit Buffslinger]] 2
+* [[Bandit Spellshaper]] 2
+* [[Guardian Arachnoid]] 2
+* [[Demon Spirit]] 5
+* [[Battousai]] 5
+* [[Craggan]] 5
+* [[Sludge Spirit]] 5
+* [[Dark Panthox]] 8
+* [[Verdigrizzly]] 8
+* [[Frosted Jelly]] 8
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2184,24 +2199,27 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_shadowelemental]]
-* [[mon_banditswordmaster]]
-* [[mon_rockgolem]]
-* [[mon_poisonelemental]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-* [[mon_destroyer]]
-* [[mon_guardianorbiter]]
-* [[mon_heavygolem]]
-* [[mon_banditsniper]]
-* [[mon_neutralizer]]
-{{== 0 ==
+* [[Wraith]] 2
+* [[Thunder Spirit]] 2
+* [[Bandit Buffslinger]] 2
+* [[Bandit Spellshaper]] 2
+* [[Guardian Arachnoid]] 2
+* [[Demon Spirit]] 5
+* [[Battousai]] 5
+* [[Craggan]] 5
+* [[Sludge Spirit]] 5
+* [[Dark Panthox]] 8
+* [[Verdigrizzly]] 8
+* [[Frosted Jelly]] 8
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2219,41 +2237,29 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_guardianspider]]
-* [[mon_shadowelemental]]
-* [[mon_banditswordmaster]]
-* [[mon_rockgolem]]
-* [[mon_poisonelemental]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-* [[mon_destroyer]]
-* [[mon_guardianorbiter]]
-* [[mon_heavygolem]]
-* [[mon_banditsniper]]
-* [[mon_neutralizer]]
-{{== Charms of the Spirit ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Abandoned Facility 1F ==
+* [[Wraith]] 2
+* [[Thunder Spirit]] 2
+* [[Bandit Buffslinger]] 2
+* [[Bandit Spellshaper]] 2
+* [[Guardian Arachnoid]] 2
+* [[Demon Spirit]] 5
+* [[Battousai]] 5
+* [[Craggan]] 5
+* [[Sludge Spirit]] 5
+* [[Dark Panthox]] 8
+* [[Verdigrizzly]] 8
+* [[Frosted Jelly]] 8
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
+
+== Charms of the Spirit ==
+This is a [[Side Area]]
+
+== Abandoned Facility 1F ==
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2271,11 +2277,14 @@
 |3
 |}
 === Monsters ===
-* [[mon_guardianspider]]
-* [[mon_guardianseeker]]
-* [[mon_guardiansphere]]
-* [[mon_robotsnake]]
-{{== Abandoned Facility 2F ==
+* [[Guardian Arachnoid]] 8
+* [[Guardian Seeker]] 8
+* [[Guardian Sphere]] 20
+* [[Guardian Lurker]] 20
+
+== Abandoned Facility 2F ==
+This is a [[Side Area]]
+Clear to receive a reward
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2293,28 +2302,18 @@
 |4
 |}
 === Monsters ===
-* [[mon_guardianspider]]
-* [[mon_guardianseeker]]
-* [[mon_guardiansphere]]
-* [[mon_robotsnake]]
-{{== Branching Meadow ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Fungal Caves ==
+* [[Guardian Arachnoid]] 20
+* [[Guardian Seeker]] 20
+* [[Guardian Sphere]] 20
+* [[Guardian Lurker]] 20
+
+== Branching Meadow ==
+
+== Fungal Caves ==
+- Entering: Fungal Caves -
+The natural Flow of this place has caused it to become overgrown.
+Large beasts and exotic flora are running rampant.
+There is not a trace of the Bandits, nor any structures at all.
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2332,15 +2331,16 @@
 |2
 |}
 === Monsters ===
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_swamptoad]]
-* [[mon_hoverbot]]
-* [[mon_livingvine]]
-{{== Fungal Caves ==
+* [[Fungal Toad]] 3
+* [[Airacudas]] 3
+* [[Crabbid]] 4
+* [[Panthox]] 14
+* [[Goliath Beetle]] 14
+* [[Bog Frog]] 20
+* [[Guardian Steward]] 20
+* [[Floraconda]] 20
+
+== Fungal Caves ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2358,12 +2358,13 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_swamptoad]]
-* [[mon_hoverbot]]
-* [[mon_livingvine]]
-{{== Fungal Caves ==
+* [[Panthox]] 14
+* [[Goliath Beetle]] 14
+* [[Bog Frog]] 20
+* [[Guardian Steward]] 20
+* [[Floraconda]] 20
+
+== Fungal Caves ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2381,15 +2382,16 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_swamptoad]]
-* [[mon_livingvine]]
-* [[mon_hoverbot]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-{{== Fungal Caves ==
+* [[Panthox]] 10
+* [[Goliath Beetle]] 10
+* [[Bog Frog]] 15
+* [[Floraconda]] 15
+* [[Guardian Steward]] 15
+* [[River Spirit]] 20
+* [[Rock Viper]] 20
+* [[Mottled Sandjaw]] 20
+
+== Fungal Caves ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2407,77 +2409,37 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_swamptoad]]
-* [[mon_livingvine]]
-* [[mon_hoverbot]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-{{== Buried Loot ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
+* [[Panthox]] 5
+* [[Goliath Beetle]] 5
+* [[Bog Frog]] 13
+* [[Floraconda]] 13
+* [[Guardian Steward]] 13
+* [[River Spirit]] 20
+* [[Rock Viper]] 20
+* [[Mottled Sandjaw]] 20
+* [[Ember Spirit]] 5
+
+== Buried Loot ==
+This is a [[Side Area]]
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-{{== Friendship Forest ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
+* [[Moss Jelly]] 6
+* [[Mold-Infested Vermin]] 10
+* [[Electric Jelly]] 10
+* [[Fire Jelly]] 10
+
+== Friendship Forest ==
+This is a [[Side Area]]
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-{{== Carrot Patch ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Magma Chamber 1F ==
+* [[Moss Jelly]] 6
+* [[Mold-Infested Vermin]] 10
+* [[Electric Jelly]] 10
+* [[Fire Jelly]] 10
+
+== Carrot Patch ==
+This is a [[Side Area]]
+
+== Magma Chamber 1F ==
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2495,13 +2457,18 @@
 |3
 |}
 === Monsters ===
-* [[mon_guardiansphere]]
-* [[mon_banditbrigand]]
-* [[mon_mottledsandjawlava]]
-* [[mon_rockviperlava]]
-* [[mon_bandithunter]]
-* [[mon_youngfireelemental]]
-{{== Magma Chamber 2F ==
+* [[Guardian Sphere]] 20
+* [[Bandit Brigand]] 20
+* [[Mottled Sandjaw]] 20
+* [[Lava Viper]] 20
+* [[Treasure Hunter]] 17
+* [[Ember Spirit]] 10
+=== NPCs ===
+* [[Mil'Bereth]]
+
+== Magma Chamber 2F ==
+This is a [[Side Area]]
+Clear to receive a reward
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2519,48 +2486,24 @@
 |3
 |}
 === Monsters ===
-* [[mon_guardiansphere]]
-* [[mon_banditbrigand]]
-* [[mon_rockviperlava]]
-* [[mon_youngfireelemental]]
-* [[mon_bandithunter]]
-* [[mon_mottledsandjawlava]]
-* [[mon_ghostsamurai]]
-{{== Tsukida's Den ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Campfire ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Spiny Maze ==
+* [[Guardian Sphere]] 20
+* [[Bandit Brigand]] 20
+* [[Lava Viper]] 20
+* [[Ember Spirit]] 20
+* [[Treasure Hunter]] 14
+* [[Mottled Sandjaw]] 20
+* [[Wraith]] 10
+=== NPCs ===
+
+== Tsukida's Den ==
+This is a [[Side Area]]
+
+== Campfire ==
+This is a [[Side Area]]
+
+== Spiny Maze ==
+This is a [[Side Area]]
+Clear to receive a reward
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2578,26 +2521,12 @@
 |2
 |}
 === Monsters ===
-* [[mon_toxicurchin]]
-* [[mon_bigurchin]]
-{{== Branching Vista ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Ancient Ruins ==
+* [[Quillkin]] 20
+* [[Spinebro]] 10
+
+== Branching Vista ==
+
+== Ancient Ruins ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2615,15 +2544,16 @@
 |3
 |}
 === Monsters ===
-* [[mon_swamptoad]]
-* [[mon_livingvine]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_guardiansphere]]
-* [[mon_robotsnake]]
-{{== Ancient Ruins ==
+* [[Bog Frog]] 5
+* [[Floraconda]] 8
+* [[River Spirit]] 17
+* [[Rock Viper]] 17
+* [[Mottled Sandjaw]] 17
+* [[Ember Spirit]] 20
+* [[Guardian Sphere]] 20
+* [[Guardian Lurker]] 20
+
+== Ancient Ruins ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2641,16 +2571,17 @@
 |4
 |}
 === Monsters ===
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_guardiansphere]]
-* [[mon_robotsnake]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianspider]]
-* [[mon_guardianseeker]]
-{{== Ancient Ruins ==
+* [[River Spirit]] 15
+* [[Rock Viper]] 15
+* [[Mottled Sandjaw]] 15
+* [[Ember Spirit]] 20
+* [[Guardian Sphere]] 20
+* [[Guardian Lurker]] 20
+* [[Thunder Spirit]] 20
+* [[Guardian Arachnoid]] 10
+* [[Guardian Seeker]] 10
+
+== Ancient Ruins ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2668,16 +2599,17 @@
 |4
 |}
 === Monsters ===
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_guardiansphere]]
-* [[mon_robotsnake]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianspider]]
-* [[mon_guardianseeker]]
-{{== Ancient Ruins ==
+* [[River Spirit]] 12
+* [[Rock Viper]] 12
+* [[Mottled Sandjaw]] 12
+* [[Ember Spirit]] 18
+* [[Guardian Sphere]] 18
+* [[Guardian Lurker]] 18
+* [[Thunder Spirit]] 20
+* [[Guardian Arachnoid]] 15
+* [[Guardian Seeker]] 15
+
+== Ancient Ruins ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2695,69 +2627,31 @@
 |4
 |}
 === Monsters ===
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_guardiansphere]]
-* [[mon_robotsnake]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianspider]]
-* [[mon_guardianseeker]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-{{== Path to Tangledeep 1F ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Riverstone Camp ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Riverstone Grove ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Cedar Caverns ==
+* [[River Spirit]] 5
+* [[Rock Viper]] 7
+* [[Mottled Sandjaw]] 7
+* [[Ember Spirit]] 14
+* [[Guardian Sphere]] 14
+* [[Guardian Lurker]] 14
+* [[Thunder Spirit]] 20
+* [[Guardian Arachnoid]] 20
+* [[Guardian Seeker]] 20
+* [[Sludge Spirit]] 17
+* [[Demon Spirit]] 17
+
+== Path to Tangledeep 1F ==
+
+== Riverstone Camp ==
+- Entering: Riverstone Camp -
+nothing
+
+== Riverstone Grove ==
+
+== Cedar Caverns ==
+- Entering: The Follies -
+The safest areas of Tangledeep are still dangerous...
+Many have tried to tame it, but nature wins in the end.
+Ornery critters and unsavory characters call the Follies home.
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2775,11 +2669,17 @@
 |1
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-{{== Cedar Caverns ==
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+=== Side Areas ===
+* [[Off the Beaten Path]]
+* [[Jelly Grotto]]
+* [[Applewood Grove]]
+* [[Carrot Patch]]
+
+== Cedar Caverns ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2797,14 +2697,25 @@
 |1
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-* [[mon_creepingspider]]
-* [[mon_toxicurchin]]
-* [[mon_electricjelly]]
-{{== Cedar Caverns ==
+* [[Moss Jelly]] 5
+* [[Salamander]] 5
+* [[Grotto Flyer]] 5
+* [[Mold-Infested Vermin]] 10
+* [[Cave Stalker]] 10
+* [[Quillkin]] 10
+* [[Electric Jelly]] 5
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Bandit Storeroom]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[Jelly Grotto]]
+* [[Applewood Grove]]
+* [[Carrot Patch]]
+* [[Spiny Maze]]
+
+== Cedar Caverns ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2822,17 +2733,30 @@
 |1
 |}
 === Monsters ===
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_toxicurchin]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-{{== Cedar Caverns ==
+* [[Salamander]] 2
+* [[Grotto Flyer]] 3
+* [[Mold-Infested Vermin]] 5
+* [[Electric Jelly]] 5
+* [[Fire Jelly]] 5
+* [[Cave Stalker]] 7
+* [[Quillkin]] 7
+* [[Fungal Toad]] 10
+* [[Airacudas]] 10
+* [[Crabbid]] 10
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Bandit Storeroom]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[Jelly Grotto]]
+* [[Applewood Grove]]
+* [[Pet Shoppe]]
+* [[Carrot Patch]]
+* [[Tsukida's Den]]
+* [[Spiny Maze]]
+
+== Cedar Caverns ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -2850,16 +2774,31 @@
 |1
 |}
 === Monsters ===
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-* [[mon_creepingspider]]
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-{{== Cedar Caverns ==
+* [[Electric Jelly]] 5
+* [[Fire Jelly]] 5
+* [[Cave Stalker]] 8
+* [[Fungal Toad]] 12
+* [[Airacudas]] 13
+* [[Crabbid]] 13
+* [[Spinebro]] 6
+* [[Panthox]] 20
+* [[Goliath Beetle]] 20
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Bandit Storeroom]]
+* [[Lava Pit]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[The Casino]]
+* [[Pet Shoppe]]
+* [[Charms of the Spirit]]
+* [[Friendship Forest]]
+* [[Carrot Patch]]
+* [[Tsukida's Den]]
+* [[Spiny Maze]]
+
+== Cedar Caverns ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |2
@@ -2877,57 +2816,46 @@
 |1
 |}
 === Monsters ===
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-{{== Dirtbeak's Den ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Old Amber Station ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|2
-|-
-|Minimum Monsters
-|7
-|-
-|Maximum Monsters
-|7
-|-
-|Maximum Champions
-|2
-|-
-|Maximum Champion Mods
-|2
-|}
-=== Monsters ===
-* [[mon_fungaltoad]]
-* [[mon_pirahnas]]
-* [[mon_redcrab]]
-* [[mon_bigurchin]]
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_alchemist]]
-{{== Old Amber Station ==
+* [[Fungal Toad]] 10
+* [[Airacudas]] 11
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+* [[Panthox]] 20
+* [[Goliath Beetle]] 20
+* [[Plunderer]] 12
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Bandit Storeroom]]
+* [[Frog Bog]]
+* [[Lava Pit]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[The Casino]]
+* [[Pet Shoppe]]
+* [[Charms of the Spirit]]
+* [[Carrot Patch]]
+* [[Tsukida's Den]]
+
+== Dirtbeak's Den ==
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Bandit Storeroom]]
+* [[Frog Bog]]
+* [[Lava Pit]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[The Casino]]
+* [[Flooded Temple 1F]]
+* [[Pet Shoppe]]
+* [[Charms of the Spirit]]
+* [[Buried Loot]]
+* [[Tsukida's Den]]
+* [[Beastlake Park]]
+* [[Craggan Mine Entrance]]
+
+== Old Amber Station ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |2
@@ -2945,12 +2873,75 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-{{== Old Amber Station ==
+* [[Fungal Toad]] 3
+* [[Airacudas]] 3
+* [[Crabbid]] 4
+* [[Spinebro]] 1
+* [[Panthox]] 14
+* [[Goliath Beetle]] 14
+* [[Plunderer]] 17
+* [[Mad Chemist]] 20
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Bandit Storeroom]]
+* [[Frog Bog]]
+* [[Lava Pit]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[The Casino]]
+* [[Flooded Temple 1F]]
+* [[Pet Shoppe]]
+* [[Charms of the Spirit]]
+* [[Buried Loot]]
+* [[Tsukida's Den]]
+* [[Beastlake Park]]
+* [[Craggan Mine Entrance]]
+* [[Frozen Research Alcove]]
+
+== Old Amber Station ==
+{| class="article-table" border="1"
+|Maximum Secret Areas
+|2
+|-
+|Minimum Monsters
+|7
+|-
+|Maximum Monsters
+|7
+|-
+|Maximum Champions
+|2
+|-
+|Maximum Champion Mods
+|2
+|}
+=== Monsters ===
+* [[Panthox]] 14
+* [[Goliath Beetle]] 14
+* [[Plunderer]] 17
+* [[Mad Chemist]] 20
+* [[Treasure Hunter]] 10
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Bandit Storeroom]]
+* [[Frog Bog]]
+* [[Lava Pit]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[The Casino]]
+* [[Flooded Temple 1F]]
+* [[Pet Shoppe]]
+* [[Charms of the Spirit]]
+* [[Buried Loot]]
+* [[Magma Chamber 1F]]
+* [[Tsukida's Den]]
+* [[Beastlake Park]]
+* [[Craggan Mine Entrance]]
+* [[Frozen Research Alcove]]
+
+== Old Amber Station ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |2
@@ -2968,14 +2959,36 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-{{== Old Amber Station ==
+* [[Panthox]] 10
+* [[Goliath Beetle]] 10
+* [[Plunderer]] 15
+* [[Mad Chemist]] 15
+* [[Treasure Hunter]] 20
+* [[Rock Viper]] 20
+* [[Mottled Sandjaw]] 20
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Bandit Storeroom]]
+* [[Frog Bog]]
+* [[Lava Pit]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[Elemental Lair 1F]]
+* [[The Casino]]
+* [[Flooded Temple 1F]]
+* [[Pet Shoppe]]
+* [[Stalker Nest]]
+* [[Charms of the Spirit]]
+* [[Buried Loot]]
+* [[Magma Chamber 1F]]
+* [[Tsukida's Den]]
+* [[Beastlake Park]]
+* [[Craggan Mine Entrance]]
+* [[Frozen Research Alcove]]
+* [[Desert Oasis]]
+
+== Old Amber Station ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |3
@@ -2993,33 +3006,60 @@
 |2
 |}
 === Monsters ===
-* [[mon_cavelion]]
-* [[mon_jadebeetle]]
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-{{== Shadow Sanctum ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Stonehewn Halls ==
+* [[Panthox]] 5
+* [[Goliath Beetle]] 5
+* [[Plunderer]] 10
+* [[Bog Frog]] 13
+* [[Mad Chemist]] 13
+* [[Treasure Hunter]] 20
+* [[Rock Viper]] 20
+* [[Mottled Sandjaw]] 20
+* [[Ember Spirit]] 5
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Bandit Storeroom]]
+* [[Frog Bog]]
+* [[Lava Pit]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[Elemental Lair 1F]]
+* [[The Casino]]
+* [[Pet Shoppe]]
+* [[Bandit Library]]
+* [[Stalker Nest]]
+* [[Charms of the Spirit]]
+* [[Buried Loot]]
+* [[Magma Chamber 1F]]
+* [[Tsukida's Den]]
+* [[Beastlake Park]]
+* [[Craggan Mine Entrance]]
+* [[Frozen Research Alcove]]
+* [[Desert Oasis]]
+
+== Shadow Sanctum ==
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Frog Bog]]
+* [[Lava Pit]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[Elemental Lair 1F]]
+* [[Bandit Enclave 1F]]
+* [[Pet Shoppe]]
+* [[Bandit Library]]
+* [[Stalker Nest]]
+* [[Charms of the Spirit]]
+* [[Buried Loot]]
+* [[Magma Chamber 1F]]
+* [[Tsukida's Den]]
+* [[Beastlake Park]]
+* [[Craggan Mine Entrance]]
+* [[Frozen Research Alcove]]
+* [[Desert Oasis]]
+
+== Stonehewn Halls ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |3
@@ -3037,16 +3077,36 @@
 |3
 |}
 === Monsters ===
-* [[mon_plunderer]]
-* [[mon_swamptoad]]
-* [[mon_alchemist]]
-* [[mon_livingvine]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-{{== Stonehewn Halls ==
+* [[Plunderer]] 3
+* [[Bog Frog]] 5
+* [[Mad Chemist]] 5
+* [[Floraconda]] 8
+* [[Treasure Hunter]] 17
+* [[River Spirit]] 17
+* [[Rock Viper]] 17
+* [[Mottled Sandjaw]] 17
+* [[Ember Spirit]] 20
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Frog Bog]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[Elemental Lair 1F]]
+* [[Bandit Enclave 1F]]
+* [[Bandit Library]]
+* [[Stalker Nest]]
+* [[Charms of the Spirit]]
+* [[Abandoned Facility 1F]]
+* [[Buried Loot]]
+* [[Magma Chamber 1F]]
+* [[Tsukida's Den]]
+* [[Beastlake Park]]
+* [[Craggan Mine Entrance]]
+* [[Frozen Research Alcove]]
+* [[Desert Oasis]]
+
+== Stonehewn Halls ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |3
@@ -3064,17 +3124,36 @@
 |4
 |}
 === Monsters ===
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-{{== Stonehewn Halls ==
+* [[Mad Chemist]] 3
+* [[Treasure Hunter]] 15
+* [[River Spirit]] 15
+* [[Rock Viper]] 15
+* [[Mottled Sandjaw]] 15
+* [[Ember Spirit]] 20
+* [[Wraith]] 20
+* [[Thunder Spirit]] 20
+* [[Bandit Buffslinger]] 5
+* [[Bandit Spellshaper]] 5
+=== Side Areas ===
+* [[Katie's Enclave]]
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[Elemental Lair 1F]]
+* [[Bandit Enclave 1F]]
+* [[Bandit Library]]
+* [[Stalker Nest]]
+* [[Charms of the Spirit]]
+* [[Abandoned Facility 1F]]
+* [[Buried Loot]]
+* [[Magma Chamber 1F]]
+* [[Tsukida's Den]]
+* [[Beastlake Park]]
+* [[Craggan Mine Entrance]]
+* [[Frozen Research Alcove]]
+* [[Desert Oasis]]
+
+== Stonehewn Halls ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3092,17 +3171,33 @@
 |4
 |}
 === Monsters ===
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_ghostsamurai]]
-* [[mon_banditspellshaper]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditswordmaster]]
-{{== Stonehewn Halls ==
+* [[Treasure Hunter]] 12
+* [[River Spirit]] 12
+* [[Rock Viper]] 12
+* [[Mottled Sandjaw]] 12
+* [[Ember Spirit]] 18
+* [[Wraith]] 20
+* [[Bandit Spellshaper]] 20
+* [[Thunder Spirit]] 20
+* [[Bandit Buffslinger]] 15
+* [[Battousai]] 5
+=== Side Areas ===
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[Elemental Lair 1F]]
+* [[Bandit Enclave 1F]]
+* [[Bandit Library]]
+* [[Stalker Nest]]
+* [[Abandoned Facility 1F]]
+* [[Buried Loot]]
+* [[Magma Chamber 1F]]
+* [[Tsukida's Den]]
+* [[Beastlake Park]]
+* [[Frozen Research Alcove]]
+* [[Desert Oasis]]
+
+== Stonehewn Halls ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3120,36 +3215,47 @@
 |4
 |}
 === Monsters ===
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_rockgolem]]
-{{== OLD Ruins ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Stonehewn Halls ==
+* [[Treasure Hunter]] 7
+* [[River Spirit]] 5
+* [[Rock Viper]] 7
+* [[Mottled Sandjaw]] 7
+* [[Ember Spirit]] 14
+* [[Wraith]] 20
+* [[Thunder Spirit]] 20
+* [[Bandit Buffslinger]] 15
+* [[Bandit Spellshaper]] 20
+* [[Battousai]] 20
+* [[Sludge Spirit]] 20
+* [[Craggan]] 20
+=== Side Areas ===
+* [[Off the Beaten Path]]
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[Elemental Lair 1F]]
+* [[Bandit Enclave 1F]]
+* [[Bandit Library]]
+* [[Stalker Nest]]
+* [[Abandoned Facility 1F]]
+* [[Buried Loot]]
+* [[Magma Chamber 1F]]
+* [[Tsukida's Den]]
+* [[Beastlake Park]]
+* [[Desert Oasis]]
+
+== OLD Ruins ==
+=== Side Areas ===
+* [[Hildegarde's Deli]]
+* [[Bottles and Brews]]
+* [[Elemental Lair 1F]]
+* [[Bandit Enclave 1F]]
+* [[Bandit Library]]
+* [[Stalker Nest]]
+* [[Abandoned Facility 1F]]
+* [[Magma Chamber 1F]]
+* [[Tsukida's Den]]
+* [[Desert Oasis]]
+
+== Stonehewn Halls ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |3
@@ -3167,24 +3273,36 @@
 |4
 |}
 === Monsters ===
-* [[mon_bandithunter]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_guardiansphere]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianspider]]
-* [[mon_guardianseeker]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-{{== Replicator 52 ==
+* [[Treasure Hunter]] 5
+* [[Rock Viper]] 5
+* [[Mottled Sandjaw]] 5
+* [[Ember Spirit]] 11
+* [[Guardian Sphere]] 11
+* [[Bandit Brigand]] 11
+* [[Guardian Lurker]] 11
+* [[Wraith]] 18
+* [[Thunder Spirit]] 18
+* [[Guardian Arachnoid]] 18
+* [[Guardian Seeker]] 18
+* [[Bandit Buffslinger]] 15
+* [[Bandit Spellshaper]] 18
+* [[Battousai]] 20
+* [[Sludge Spirit]] 20
+* [[Demon Spirit]] 20
+* [[Craggan]] 20
+=== Side Areas ===
+* [[Elemental Lair 1F]]
+* [[Bandit Enclave 1F]]
+* [[Bandit Library]]
+* [[Stalker Nest]]
+* [[Abandoned Facility 1F]]
+* [[Tsukida's Den]]
+
+== Replicator 52 ==
+- Entering: Replicator 52 -
+The air is heavy with the clanging of active machinery.
+Though ancient and overgrown, it is more active than anything I've yet seen.
+Beasts, elementals, and Bandits patrol here, working together... but why?
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3202,24 +3320,29 @@
 |4
 |}
 === Monsters ===
-* [[mon_youngfireelemental]]
-* [[mon_guardiansphere]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianspider]]
-* [[mon_guardianseeker]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-{{== Replicator 52 ==
+* [[Ember Spirit]] 7
+* [[Guardian Sphere]] 7
+* [[Bandit Brigand]] 7
+* [[Guardian Lurker]] 7
+* [[Wraith]] 14
+* [[Thunder Spirit]] 14
+* [[Guardian Arachnoid]] 14
+* [[Guardian Seeker]] 14
+* [[Bandit Buffslinger]] 12
+* [[Bandit Spellshaper]] 14
+* [[Battousai]] 20
+* [[Sludge Spirit]] 20
+* [[Demon Spirit]] 20
+* [[Craggan]] 20
+* [[Dark Panthox]] 20
+* [[Verdigrizzly]] 20
+* [[Frosted Jelly]] 20
+=== Side Areas ===
+* [[Bandit Library]]
+* [[Abandoned Facility 1F]]
+* [[Tsukida's Den]]
+
+== Replicator 52 ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3237,75 +3360,35 @@
 |4
 |}
 === Monsters ===
-* [[mon_youngfireelemental]]
-* [[mon_guardiansphere]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianspider]]
-* [[mon_guardianseeker]]
-* [[mon_banditbuffslinger]]
-* [[mon_banditspellshaper]]
-* [[mon_banditswordmaster]]
-* [[mon_poisonelemental]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_frostedjelly]]
-{{== The Core ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== The Final Battle ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Path to Tangledeep 2F ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Spiny Maze ==
+* [[Ember Spirit]] 2
+* [[Guardian Sphere]] 3
+* [[Bandit Brigand]] 3
+* [[Guardian Lurker]] 3
+* [[Wraith]] 11
+* [[Thunder Spirit]] 11
+* [[Guardian Arachnoid]] 11
+* [[Guardian Seeker]] 11
+* [[Bandit Buffslinger]] 11
+* [[Bandit Spellshaper]] 11
+* [[Battousai]] 16
+* [[Sludge Spirit]] 16
+* [[Demon Spirit]] 16
+* [[Craggan]] 16
+* [[Dark Panthox]] 20
+* [[Verdigrizzly]] 20
+* [[Frosted Jelly]] 20
+=== Side Areas ===
+* [[Bandit Library]]
+* [[Abandoned Facility 1F]]
+* [[Tsukida's Den]]
+
+== The Core ==
+
+== The Final Battle ==
+
+== Path to Tangledeep 2F ==
+
+== Spiny Maze ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3323,11 +3406,12 @@
 |4
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-{{== Spiny Maze ==
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+
+== Spiny Maze ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3345,11 +3429,12 @@
 |4
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-{{== Spiny Maze ==
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+
+== Spiny Maze ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3367,11 +3452,12 @@
 |4
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-{{== Spiny Maze ==
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+
+== Spiny Maze ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3389,164 +3475,34 @@
 |4
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-{{== Bandit Hideout Entrance (6F) ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Bandit HQ Entrance (10F) ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Bandit HQ ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Beastlake Park ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Weapons Facility ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Regenerator ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Science Lab ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Fabricator ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Central Processing ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Outer Nightmare ==
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+
+== Bandit Hideout Entrance (6F) ==
+
+== Bandit HQ Entrance (10F) ==
+
+== Bandit HQ ==
+
+== Beastlake Park ==
+This is a [[Side Area]]
+
+== Weapons Facility ==
+
+== Regenerator ==
+
+== Science Lab ==
+
+== Fabricator ==
+
+== Central Processing ==
+This is a [[Side Area]]
+
+== Outer Nightmare ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3564,28 +3520,16 @@
 |2
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-{{== Assembler Facility ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== 0 ==
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+
+== Assembler Facility ==
+
+== ????? ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3603,21 +3547,24 @@
 |3
 |}
 === Monsters ===
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_youngwaterelemental]]
-* [[mon_rockviper]]
-* [[mon_mottledsandjaw]]
-* [[mon_youngfireelemental]]
-* [[mon_jadesalamander]]
-* [[mon_guardiansphere]]
-* [[mon_vinestalker]]
-* [[mon_banditbrigand]]
-* [[mon_robotsnake]]
-* [[mon_ghostsamurai]]
-* [[mon_younglightningelemental]]
-* [[mon_guardianseeker]]
-{{== Inner Nightmare ==
+* [[Mad Chemist]] 6
+* [[Treasure Hunter]] 18
+* [[River Spirit]] 18
+* [[Rock Viper]] 18
+* [[Mottled Sandjaw]] 18
+* [[Ember Spirit]] 20
+* [[Jade Salamander]] 20
+* [[Guardian Sphere]] 15
+* [[Vine Stalker]] 20
+* [[Bandit Brigand]] 20
+* [[Guardian Lurker]] 10
+* [[Wraith]] 10
+* [[Thunder Spirit]] 20
+* [[Guardian Seeker]] 20
+
+== Inner Nightmare ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3635,11 +3582,14 @@
 |2
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-{{== Nightmare Core ==
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+
+== Nightmare Core ==
+This is an [[Item World]]
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3657,28 +3607,16 @@
 |2
 |}
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_salamander]]
-* [[mon_grottoflyer]]
-* [[mon_slimerat]]
-{{== Craggan Mine Entrance ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Craggan Mine 1F ==
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+
+== Craggan Mine Entrance ==
+This is a [[Side Area]]
+
+== Craggan Mine 1F ==
+This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3696,128 +3634,45 @@
 |3
 |}
 === Monsters ===
-* [[mon_plunderer]]
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_youngfireelemental]]
-* [[mon_rockviper]]
-* [[mon_rockviperlava]]
-* [[mon_banditbrigand]]
-* [[mon_mottledsandjawlava]]
-{{== Craggan Mine 2F ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
+* [[Plunderer]] 5
+* [[Mad Chemist]] 16
+* [[Treasure Hunter]] 20
+* [[Ember Spirit]] 10
+* [[Rock Viper]] 15
+* [[Lava Viper]] 15
+* [[Bandit Brigand]] 10
+* [[Mottled Sandjaw]] 15
+
+== Craggan Mine 2F ==
+This is a [[Side Area]]
 === Monsters ===
-* [[mon_mossjelly]]
-* [[mon_slimerat]]
-* [[mon_electricjelly]]
-* [[mon_firejelly]]
-{{== The Final Battle ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Frozen Research Alcove ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Lush Research Alcove ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Desert Oasis ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== Casino 2F ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
+* [[Moss Jelly]] 6
+* [[Mold-Infested Vermin]] 10
+* [[Electric Jelly]] 10
+* [[Fire Jelly]] 10
+
+== The Final Battle ==
+This is a [[Side Area]]
+
+== Frozen Research Alcove ==
+This is a [[Side Area]]
+
+== Lush Research Alcove ==
+This is a [[Side Area]]
+
+== Desert Oasis ==
+This is a [[Side Area]]
+
+== Casino 2F ==
+This is a [[Side Area]]
 === Monsters ===
-* [[mon_plunderer]]
-* [[mon_alchemist]]
-* [[mon_bandithunter]]
-* [[mon_ghostsamurai]]
-* [[mon_banditspellshaper]]
-{{== Dream of Dungeons Distant ==
+* [[Plunderer]] 12
+* [[Mad Chemist]] 14
+* [[Treasure Hunter]] 10
+* [[Wraith]] 5
+* [[Bandit Spellshaper]] 2
+
+== Dream of Dungeons Distant ==
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3835,65 +3690,21 @@
 |4
 |}
 === Monsters ===
-* [[mon_ghostsamurai]]
-* [[mon_shadowelemental]]
-* [[mon_rockgolem]]
-* [[mon_poisonelemental]]
-* [[mon_darkcavelion]]
-* [[mon_mossbeast]]
-* [[mon_banditsniper]]
-* [[mon_purplepirahnas]]
-* [[mon_purplefrostedjelly]]
-* [[mon_purplewaterelemental]]
-* [[mon_purplebanditswordmaster]]
-{{== Ruined Passage ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== ??? Passage ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
-{{== ShepCore ==
-{| class="article-table" border="1"
-|Maximum Secret Areas
-|0
-|-
-|Minimum Monsters
-|0
-|-
-|Maximum Monsters
-|0
-|-
-|Maximum Champions
-|0
-|-
-|Maximum Champion Mods
-|0
-|}
+* [[Wraith]] 2
+* [[Demon Spirit]] 5
+* [[Craggan]] 5
+* [[Sludge Spirit]] 5
+* [[Dark Panthox]] 8
+* [[Verdigrizzly]] 8
+* [[Bandit Sniper]] 15
+* [[Corrupted Airacudas]] 18
+* [[Corrupted Jelly]] 18
+* [[Corrupted River Spirit]] 18
+* [[Corrupted Battousai]] 18
+
+== Ruined Passage ==
+
+== ??? Passage ==
+
+== ShepCore ==
+
