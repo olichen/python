@@ -46,14 +46,16 @@ def printDungeonTitle(dungeon):
     if dungeon.find('TextOverlay') is not None:
         print(dungeon.find('TextOverlay').findtext('Name'))
         print(dungeon.find('TextOverlay').findtext('Text'))
+    if dungeon.find('ExpectedPlayerLevel') is not None:
+        print("Expected player level: "+dungeon.findtext('ExpectedPlayerLevel'))
+    if dungeon.find('FastTravel') is not None:
+        print("You can fast travel to this location")
     if dungeon.find('ItemWorld') is not None:
         print("This is an [[Item World]]")
     if dungeon.find('SideArea') is not None:
         print("This is a [[Side Area]]")
     if dungeon.find('ClearReward') is not None:
         print("Clear to receive a reward")
-    if dungeon.find('FastTravel') is not None:
-        print("You can fast travel to this location")
 
 def printDungeonStats(dungeon):
     def my_replace(elementName):
@@ -121,29 +123,29 @@ def countSpawns(room, symbol):
         occurances += row.text.count(symbol)
     return str(occurances)
 
+def monsterPrintFormatter(room, char):
+    if char.findtext('CharType')=='MONSTER':
+        monsterName = "[["+findMonsterName(char.findtext('ActorRef'))+"]]"
+    else:
+        monsterName = "Random Monster(s)"
+    monsterNum = countSpawns(room, char.findtext('Symbol'))+"x "
+    monsterChamp = ""
+    if char.find('ChampMods') is not None:
+        monsterChamp = "Champion (" + char.findtext('ChampMods') + " mod(s)) "
+    return "* "+monsterNum+monsterChamp+monsterName
+
 def printSpecialTemplate(dungeon):
     room = findSpecialTemplate(dungeon.findtext('SpecialRoomTemplate'))
     charList = room.findall('CharDef')
     monsterOutput = []
-    randomMonsterOutput = []
-    randomMonsterTable = ""
+    randomMonsterTable = None
     npcOutput = []
     if charList != []:
         for char in charList:
             if char.findtext('CharType')=='MONSTER':
-                monsterName = "[["+findMonsterName(char.findtext('ActorRef'))+"]]"
-                monsterNum = countSpawns(room, char.findtext('Symbol'))+"x "
-                monsterChamp = ""
-                if char.find('ChampMods') is not None:
-                    monsterChamp = "Champion (" + char.findtext('ChampMods') + " mod(s)) "
-                monsterOutput.append("* "+monsterNum+monsterChamp+monsterName)
+                monsterOutput.append(monsterPrintFormatter(room, char))
             if char.findtext('CharType')=='RANDOMMONSTER':
-                monsterName = "Monster(s)"
-                monsterNum = countSpawns(room, char.findtext('Symbol'))+"x "
-                monsterChamp = ""
-                if char.find('ChampMods') is not None:
-                    monsterChamp = "Champion (" + char.findtext('ChampMods') + " mod(s)) "
-                randomMonsterOutput.append("* "+monsterNum+monsterChamp+monsterName)
+                monsterOutput.append(monsterPrintFormatter(room, char))
                 randomMonsterTable=char.findtext('ActorTable')
             if char.findtext('CharType')=='NPC':
                 npcOutput.append(findNPCName(char.findtext('ActorRef')))
@@ -151,10 +153,7 @@ def printSpecialTemplate(dungeon):
         print("=== Monsters ===")
         for monster in monsterOutput:
             print(monster)
-    if randomMonsterOutput != []:
-        print("=== Random Monsters ===")
-        for monster in randomMonsterOutput:
-            print(monster)
+    if randomMonsterTable is not None:
         printMonsterTable(randomMonsterTable)
     if npcOutput != []:
         print("=== NPCs ===")
