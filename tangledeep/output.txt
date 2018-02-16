@@ -1,5 +1,8 @@
 == Katie's Enclave ==
+You can fast travel to this location
 This is a [[Side Area]]
+=== NPCs ===
+* [[Katie Twinkles (General Store)]]
 
 == Bandit Storeroom ==
 This is a [[Side Area]]
@@ -8,27 +11,32 @@ This is a [[Side Area]]
 This is a [[Side Area]]
 Clear to receive a reward
 === Monsters ===
-* [[Moss Jelly]] 6
-* [[Mold-Infested Vermin]] 10
-* [[Electric Jelly]] 10
-* [[Fire Jelly]] 10
+* 7x [[Bog Frog]]
+* 1x Champion (1 mod(s)) [[Bog Frog]]
+* 1x Champion (2 mod(s)) [[Bog Frog]]
 
 == Lava Pit ==
 This is a [[Side Area]]
 
 == Off the Beaten Path ==
+You can fast travel to this location
 This is a [[Side Area]]
+=== NPCs ===
+* [[Zephiira (Map Shop)]]
 
 == Hildegarde's Deli ==
+You can fast travel to this location
 This is a [[Side Area]]
+=== NPCs ===
+* [[Hildegarde (Food Shop)]]
 
 == Bottles and Brews ==
+You can fast travel to this location
 This is a [[Side Area]]
 === Monsters ===
-* [[Moss Jelly]] 6
-* [[Mold-Infested Vermin]] 10
-* [[Electric Jelly]] 10
-* [[Fire Jelly]] 10
+* 2x [[Panthox]]
+=== NPCs ===
+* [[Katie Twinkles (Potion Store)]]
 
 == Elemental Lair 1F ==
 This is a [[Side Area]]
@@ -108,8 +116,17 @@ Clear to receive a reward
 * [[Craggan]] 20
 
 == The Casino ==
+You can fast travel to this location
+=== NPCs ===
+* [[Gaming Jelly]]
+* [[Slot Machine]]
+* [[The Casino Shark]]
+* [[Casino Katie]]
+* [[Casino Katie]]
+* [[Gaming Jelly]]
 
 == Flooded Temple 1F ==
+Expected player level: 4
 This is a [[Side Area]]
 {| class="article-table" border="1"
 |Maximum Secret Areas
@@ -142,6 +159,7 @@ This is a [[Side Area]]
 * [[Floraconda]] 5
 
 == Flooded Temple 2F ==
+Expected player level: 5
 This is a [[Side Area]]
 Clear to receive a reward
 {| class="article-table" border="1"
@@ -160,6 +178,10 @@ Clear to receive a reward
 |Maximum Champion Mods
 |2
 |}
+=== Monsters ===
+* 1x Champion (1 mod(s)) Random Monster(s)
+* 1x Champion (2 mod(s)) Random Monster(s)
+* 8x Random Monster(s)
 === Monsters ===
 * [[Panthox]] 10
 * [[Goliath Beetle]] 10
@@ -285,24 +307,35 @@ Clear to receive a reward
 == Applewood Grove ==
 This is a [[Side Area]]
 === Monsters ===
-* [[Moss Jelly]] 6
-* [[Mold-Infested Vermin]] 10
-* [[Electric Jelly]] 10
-* [[Fire Jelly]] 10
+* 3x [[Grove Pest]]
 
 == Pet Shoppe ==
+You can fast travel to this location
 This is a [[Side Area]]
+=== NPCs ===
+* [[Pando (Pet Store)]]
+* [[Captive Moss Jelly]]
+* [[Captive Salamander]]
+* [[Captive Grotto Flyer]]
+* [[Captive Fungal Toad]]
+* [[Captive Airacudas]]
+* [[Captive Panthox]]
+* [[Captive Goliath Beetle]]
 
 == Bandit Library ==
 This is a [[Side Area]]
 Clear to receive a reward
 === Monsters ===
-* [[Moss Jelly]] 6
-* [[Mold-Infested Vermin]] 10
-* [[Electric Jelly]] 10
-* [[Fire Jelly]] 10
+* 2x Champion (2 mod(s)) [[Bandit Spellshaper]]
+* 1x Champion (2 mod(s)) [[Bandit Spellshaper]]
+* 6x [[Bandit Spellshaper]]
+* 1x Champion (1 mod(s)) [[Bandit Spellshaper]]
+* 1x [[Duke Dirtbeak]]
+* 5x [[Bandit Buffslinger]]
+* 1x Champion (1 mod(s)) [[Bandit Buffslinger]]
 
 == ????? ==
+Expected player level: 1
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -328,6 +361,7 @@ This is a [[Side Area]]
 * [[Mold-Infested Vermin]] 5
 
 == ????? ==
+Expected player level: 1
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -353,6 +387,7 @@ This is a [[Side Area]]
 * [[Mold-Infested Vermin]] 5
 
 == ????? ==
+Expected player level: 1
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -378,6 +413,7 @@ This is a [[Side Area]]
 * [[Mold-Infested Vermin]] 5
 
 == ????? ==
+Expected player level: 2
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -410,6 +446,7 @@ This is a [[Side Area]]
 * [[Spinebro]] 3
 
 == ????? ==
+Expected player level: 2
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -442,6 +479,7 @@ This is a [[Side Area]]
 * [[Spinebro]] 3
 
 == ????? ==
+Expected player level: 2
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -474,6 +512,7 @@ This is a [[Side Area]]
 * [[Spinebro]] 3
 
 == ????? ==
+Expected player level: 3
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -506,6 +545,7 @@ This is a [[Side Area]]
 * [[Spinebro]] 5
 
 == ????? ==
+Expected player level: 3
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -538,6 +578,7 @@ This is a [[Side Area]]
 * [[Spinebro]] 5
 
 == ????? ==
+Expected player level: 3
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -570,6 +611,7 @@ This is a [[Side Area]]
 * [[Spinebro]] 5
 
 == ????? ==
+Expected player level: 4
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -601,6 +643,7 @@ This is a [[Side Area]]
 * [[Plunderer]] 6
 
 == ????? ==
+Expected player level: 4
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -632,6 +675,7 @@ This is a [[Side Area]]
 * [[Plunderer]] 6
 
 == ????? ==
+Expected player level: 4
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -663,6 +707,7 @@ This is a [[Side Area]]
 * [[Plunderer]] 6
 
 == ????? ==
+Expected player level: 4
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -691,6 +736,7 @@ This is a [[Side Area]]
 * [[Plunderer]] 12
 
 == ????? ==
+Expected player level: 4
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -719,6 +765,7 @@ This is a [[Side Area]]
 * [[Plunderer]] 12
 
 == ????? ==
+Expected player level: 4
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -747,6 +794,7 @@ This is a [[Side Area]]
 * [[Plunderer]] 12
 
 == ????? ==
+Expected player level: 5
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -777,6 +825,7 @@ This is a [[Side Area]]
 * [[Treasure Hunter]] 4
 
 == ????? ==
+Expected player level: 5
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -807,6 +856,7 @@ This is a [[Side Area]]
 * [[Treasure Hunter]] 4
 
 == ????? ==
+Expected player level: 5
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -837,6 +887,7 @@ This is a [[Side Area]]
 * [[Treasure Hunter]] 4
 
 == ????? ==
+Expected player level: 5
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -865,6 +916,7 @@ This is a [[Side Area]]
 * [[Treasure Hunter]] 10
 
 == ????? ==
+Expected player level: 5
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -893,6 +945,7 @@ This is a [[Side Area]]
 * [[Treasure Hunter]] 10
 
 == ????? ==
+Expected player level: 5
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -921,6 +974,7 @@ This is a [[Side Area]]
 * [[Treasure Hunter]] 10
 
 == ????? ==
+Expected player level: 6
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -952,6 +1006,7 @@ This is a [[Side Area]]
 * [[Mottled Sandjaw]] 15
 
 == ????? ==
+Expected player level: 6
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -983,6 +1038,7 @@ This is a [[Side Area]]
 * [[Mottled Sandjaw]] 15
 
 == ????? ==
+Expected player level: 6
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1014,6 +1070,7 @@ This is a [[Side Area]]
 * [[Mottled Sandjaw]] 15
 
 == ????? ==
+Expected player level: 6
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1045,6 +1102,7 @@ This is a [[Side Area]]
 * [[Mottled Sandjaw]] 15
 
 == ????? ==
+Expected player level: 7
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1078,6 +1136,7 @@ This is a [[Side Area]]
 * [[Jade Salamander]] 5
 
 == ????? ==
+Expected player level: 7
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1111,6 +1170,7 @@ This is a [[Side Area]]
 * [[Jade Salamander]] 5
 
 == ????? ==
+Expected player level: 7
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1144,6 +1204,7 @@ This is a [[Side Area]]
 * [[Jade Salamander]] 5
 
 == ????? ==
+Expected player level: 8
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1179,6 +1240,7 @@ This is a [[Side Area]]
 * [[Guardian Seeker]] 20
 
 == ????? ==
+Expected player level: 8
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1214,6 +1276,7 @@ This is a [[Side Area]]
 * [[Guardian Seeker]] 20
 
 == ????? ==
+Expected player level: 8
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1249,6 +1312,7 @@ This is a [[Side Area]]
 * [[Guardian Seeker]] 20
 
 == ????? ==
+Expected player level: 8
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1287,6 +1351,7 @@ This is a [[Side Area]]
 * [[Bandit Spellshaper]] 7
 
 == ????? ==
+Expected player level: 8
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1325,6 +1390,7 @@ This is a [[Side Area]]
 * [[Bandit Spellshaper]] 7
 
 == ????? ==
+Expected player level: 8
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1363,6 +1429,7 @@ This is a [[Side Area]]
 * [[Bandit Spellshaper]] 7
 
 == ????? ==
+Expected player level: 9
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1403,6 +1470,7 @@ This is a [[Side Area]]
 * [[Craggan]] 10
 
 == ????? ==
+Expected player level: 9
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1443,6 +1511,7 @@ This is a [[Side Area]]
 * [[Craggan]] 10
 
 == ????? ==
+Expected player level: 9
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1483,6 +1552,7 @@ This is a [[Side Area]]
 * [[Craggan]] 10
 
 == ????? ==
+Expected player level: 9
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1523,6 +1593,7 @@ This is a [[Side Area]]
 * [[Craggan]] 20
 
 == ????? ==
+Expected player level: 9
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1563,6 +1634,7 @@ This is a [[Side Area]]
 * [[Craggan]] 20
 
 == ????? ==
+Expected player level: 9
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1603,6 +1675,7 @@ This is a [[Side Area]]
 * [[Craggan]] 20
 
 == ????? ==
+Expected player level: 10
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1643,6 +1716,7 @@ This is a [[Side Area]]
 * [[Frosted Jelly]] 4
 
 == ????? ==
+Expected player level: 10
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1683,6 +1757,7 @@ This is a [[Side Area]]
 * [[Frosted Jelly]] 4
 
 == ????? ==
+Expected player level: 11
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1723,6 +1798,7 @@ This is a [[Side Area]]
 * [[Frosted Jelly]] 20
 
 == ????? ==
+Expected player level: 11
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1763,6 +1839,7 @@ This is a [[Side Area]]
 * [[Frosted Jelly]] 20
 
 == ????? ==
+Expected player level: 11
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1806,12 +1883,12 @@ This is a [[Side Area]]
 This is a [[Side Area]]
 Clear to receive a reward
 === Monsters ===
-* [[Moss Jelly]] 6
-* [[Mold-Infested Vermin]] 10
-* [[Electric Jelly]] 10
-* [[Fire Jelly]] 10
+* 1x [[Guardian Arachnoid]]
+* 8x [[Vine Stalker]]
+* 2x Champion (2 mod(s)) [[Vine Stalker]]
 
 == ????? ==
+Expected player level: 11
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1846,6 +1923,7 @@ This is a [[Side Area]]
 * [[Frosted Jelly]] 15
 
 == ????? ==
+Expected player level: 11
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1880,6 +1958,7 @@ This is a [[Side Area]]
 * [[Frosted Jelly]] 15
 
 == ????? ==
+Expected player level: 11
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1914,6 +1993,7 @@ This is a [[Side Area]]
 * [[Frosted Jelly]] 15
 
 == ????? ==
+Expected player level: 12
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1952,6 +2032,7 @@ This is a [[Side Area]]
 * [[Neutralizer]] 15
 
 == ????? ==
+Expected player level: 12
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -1990,6 +2071,7 @@ This is a [[Side Area]]
 * [[Neutralizer]] 15
 
 == ????? ==
+Expected player level: 12
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -2028,6 +2110,7 @@ This is a [[Side Area]]
 * [[Neutralizer]] 15
 
 == ????? ==
+Expected player level: 13
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -2066,6 +2149,7 @@ This is a [[Side Area]]
 * [[Neutralizer]] 15
 
 == ????? ==
+Expected player level: 13
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -2104,6 +2188,7 @@ This is a [[Side Area]]
 * [[Neutralizer]] 15
 
 == ????? ==
+Expected player level: 13
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -2142,6 +2227,7 @@ This is a [[Side Area]]
 * [[Neutralizer]] 15
 
 == ????? ==
+Expected player level: 14
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -2180,6 +2266,7 @@ This is a [[Side Area]]
 * [[Neutralizer]] 15
 
 == ????? ==
+Expected player level: 14
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -2218,6 +2305,7 @@ This is a [[Side Area]]
 * [[Neutralizer]] 15
 
 == ????? ==
+Expected player level: 14
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -2256,7 +2344,10 @@ This is a [[Side Area]]
 * [[Neutralizer]] 15
 
 == Charms of the Spirit ==
+You can fast travel to this location
 This is a [[Side Area]]
+=== NPCs ===
+* [[Kyle (Magic Shop)]]
 
 == Abandoned Facility 1F ==
 This is a [[Side Area]]
@@ -2308,6 +2399,7 @@ Clear to receive a reward
 * [[Guardian Lurker]] 20
 
 == Branching Meadow ==
+You can fast travel to this location
 
 == Fungal Caves ==
 - Entering: Fungal Caves -
@@ -2421,22 +2513,26 @@ There is not a trace of the Bandits, nor any structures at all.
 
 == Buried Loot ==
 This is a [[Side Area]]
-=== Monsters ===
-* [[Moss Jelly]] 6
-* [[Mold-Infested Vermin]] 10
-* [[Electric Jelly]] 10
-* [[Fire Jelly]] 10
+=== NPCs ===
+* [[Wood Sign]]
 
 == Friendship Forest ==
 This is a [[Side Area]]
 === Monsters ===
-* [[Moss Jelly]] 6
-* [[Mold-Infested Vermin]] 10
-* [[Electric Jelly]] 10
-* [[Fire Jelly]] 10
+* 4x Random Monster(s)
+=== Monsters ===
+* [[Fungal Toad]] 10
+* [[Airacudas]] 11
+* [[Crabbid]] 10
+* [[Spinebro]] 5
+* [[Panthox]] 20
+* [[Goliath Beetle]] 20
+* [[Plunderer]] 12
 
 == Carrot Patch ==
 This is a [[Side Area]]
+=== NPCs ===
+* [[Wood Sign]]
 
 == Magma Chamber 1F ==
 This is a [[Side Area]]
@@ -2493,10 +2589,11 @@ Clear to receive a reward
 * [[Treasure Hunter]] 14
 * [[Mottled Sandjaw]] 20
 * [[Wraith]] 10
-=== NPCs ===
 
 == Tsukida's Den ==
 This is a [[Side Area]]
+=== NPCs ===
+* [[Tsukida]]
 
 == Campfire ==
 This is a [[Side Area]]
@@ -2525,6 +2622,9 @@ Clear to receive a reward
 * [[Spinebro]] 10
 
 == Branching Vista ==
+You can fast travel to this location
+=== NPCs ===
+* [[Hooded Woman]]
 
 == Ancient Ruins ==
 {| class="article-table" border="1"
@@ -2640,12 +2740,17 @@ Clear to receive a reward
 * [[Demon Spirit]] 17
 
 == Path to Tangledeep 1F ==
+=== Monsters ===
+* 1x [[Moss Jelly]]
+* 1x [[Salamander]]
 
 == Riverstone Camp ==
 - Entering: Riverstone Camp -
 nothing
 
 == Riverstone Grove ==
+=== Monsters ===
+* 1x [[Target Dummy]]
 
 == Cedar Caverns ==
 - Entering: The Follies -
@@ -2838,6 +2943,10 @@ Ornery critters and unsavory characters call the Follies home.
 * [[Tsukida's Den]]
 
 == Dirtbeak's Den ==
+=== Monsters ===
+* 2x [[Sr. Plunderer]]
+* 2x [[Sr. Mad Chemist]]
+* 1x [[Duke Dirtbeak]]
 === Side Areas ===
 * [[Katie's Enclave]]
 * [[Bandit Storeroom]]
@@ -3243,6 +3352,9 @@ Ornery critters and unsavory characters call the Follies home.
 * [[Desert Oasis]]
 
 == OLD Ruins ==
+=== Monsters ===
+* 2x [[Sentry Assembler]]
+* 1x [[Guardian Quadriped]]
 === Side Areas ===
 * [[Hildegarde's Deli]]
 * [[Bottles and Brews]]
@@ -3383,10 +3495,28 @@ Beasts, elementals, and Bandits patrol here, working together... but why?
 * [[Tsukida's Den]]
 
 == The Core ==
+=== Monsters ===
+* 2x [[Barrier Generator]]
+* 2x [[Destroyer]]
+* 1x [[Supervisor Z-99]]
+* 4x [[Phasma Emitter]]
+* 4x [[Power Assembler]]
 
 == The Final Battle ==
+=== Monsters ===
+* 1x [[Ancient One]]
+* 2x Champion (2 mod(s)) [[Dark Panthox]]
+* 2x [[Verdigrizzly]]
+* 2x [[Regenerator]]
 
 == Path to Tangledeep 2F ==
+=== Monsters ===
+* 10x Random Monster(s)
+=== Monsters ===
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
 
 == Spiny Maze ==
 {| class="article-table" border="1"
@@ -3481,24 +3611,132 @@ Beasts, elementals, and Bandits patrol here, working together... but why?
 * [[Mold-Infested Vermin]] 5
 
 == Bandit Hideout Entrance (6F) ==
+=== NPCs ===
+* [[Wood Sign]]
+* [[Wood Sign]]
 
 == Bandit HQ Entrance (10F) ==
+=== Monsters ===
+* 0x [[Mad Chemist]]
+* 1x [[Mottled Sandjaw]]
+* 3x [[Treasure Hunter]]
 
 == Bandit HQ ==
+=== Monsters ===
+* 2x [[Plunderer]]
+* 2x [[Sr. Plunderer]]
+* 1x [[Duke Dirtbeak]]
 
 == Beastlake Park ==
+You can fast travel to this location
 This is a [[Side Area]]
+=== Monsters ===
+* 7x Random Monster(s)
+=== Monsters ===
+* [[Moss Jelly]] 10
+* [[Salamander]] 10
+* [[Grotto Flyer]] 10
+* [[Mold-Infested Vermin]] 5
+=== NPCs ===
+* [[Wood Sign]]
+* [[Alexis (Monster Rancher)]]
 
 == Weapons Facility ==
+Expected player level: 13
+=== Monsters ===
+* 22x [[Phasma Emitter]]
+* 38x [[Barrier Crystal]]
+* 12x Random Monster(s)
+* 0x Champion (1 mod(s)) Random Monster(s)
+* 4x Champion (2 mod(s)) Random Monster(s)
+* 1x Champion (3 mod(s)) Random Monster(s)
+* 1x Champion (4 mod(s)) Random Monster(s)
+* 1x [[Guardian XA1]]
+=== Monsters ===
+* [[Guardian Arachnoid]] 6
+* [[Battousai]] 8
+* [[Craggan]] 8
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
 
 == Regenerator ==
+Expected player level: 13
+=== Monsters ===
+* 17x Random Monster(s)
+* 3x Champion (1 mod(s)) Random Monster(s)
+* 3x Champion (2 mod(s)) Random Monster(s)
+* 5x Champion (3 mod(s)) Random Monster(s)
+* 1x Champion (4 mod(s)) Random Monster(s)
+* 9x [[Regenerator]]
+=== Monsters ===
+* [[Guardian Arachnoid]] 6
+* [[Battousai]] 8
+* [[Craggan]] 8
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
 
 == Science Lab ==
+Expected player level: 13
+=== Monsters ===
+* 29x Random Monster(s)
+* 1x Champion (1 mod(s)) Random Monster(s)
+* 7x Champion (2 mod(s)) Random Monster(s)
+* 4x Champion (3 mod(s)) Random Monster(s)
+* 1x [[Research Overseer]]
+=== Monsters ===
+* [[Wraith]] 6
+* [[Thunder Spirit]] 6
+* [[Bandit Buffslinger]] 6
+* [[Bandit Spellshaper]] 6
+* [[Guardian Arachnoid]] 6
+* [[Demon Spirit]] 8
+* [[Battousai]] 8
+* [[Craggan]] 8
+* [[Sludge Spirit]] 8
+* [[Dark Panthox]] 11
+* [[Verdigrizzly]] 11
+* [[Frosted Jelly]] 11
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
 
 == Fabricator ==
+Expected player level: 13
+=== Monsters ===
+* 24x Random Monster(s)
+* 6x Champion (1 mod(s)) Random Monster(s)
+* 4x Champion (2 mod(s)) Random Monster(s)
+* 3x Champion (3 mod(s)) Random Monster(s)
+* 1x [[Guardian XA2]]
+* 17x [[Power Assembler]]
+=== Monsters ===
+* [[Guardian Arachnoid]] 6
+* [[Battousai]] 8
+* [[Craggan]] 8
+* [[Destroyer]] 15
+* [[Guardian Orbiter]] 15
+* [[Heavy Golem]] 15
+* [[Bandit Sniper]] 15
+* [[Neutralizer]] 15
 
 == Central Processing ==
+Expected player level: 13
+You can fast travel to this location
 This is a [[Side Area]]
+=== NPCs ===
+* [[Master Repair Status Console]]
+* [[Weapons Facility Status]]
+* [[Regenerator Status]]
+* [[Research Center Status]]
+* [[Fabricator Status]]
 
 == Outer Nightmare ==
 This is an [[Item World]]
@@ -3526,8 +3764,14 @@ This is a [[Side Area]]
 * [[Mold-Infested Vermin]] 5
 
 == Assembler Facility ==
+=== Monsters ===
+* 6x [[Sentry Assembler]]
+* 1x [[Guardian Quadriped]]
+=== NPCs ===
+* [[Shara]]
 
 == ????? ==
+Expected player level: 8
 This is an [[Item World]]
 This is a [[Side Area]]
 {| class="article-table" border="1"
@@ -3614,6 +3858,9 @@ This is a [[Side Area]]
 
 == Craggan Mine Entrance ==
 This is a [[Side Area]]
+=== NPCs ===
+* [[Craggan Foreman]]
+* [[Craggan Miner]]
 
 == Craggan Mine 1F ==
 This is a [[Side Area]]
@@ -3646,25 +3893,63 @@ This is a [[Side Area]]
 == Craggan Mine 2F ==
 This is a [[Side Area]]
 === Monsters ===
-* [[Moss Jelly]] 6
-* [[Mold-Infested Vermin]] 10
-* [[Electric Jelly]] 10
-* [[Fire Jelly]] 10
+* 4x Random Monster(s)
+* 1x Champion (3 mod(s)) Random Monster(s)
+=== Monsters ===
+* [[Plunderer]] 5
+* [[Mad Chemist]] 16
+* [[Treasure Hunter]] 20
+* [[Ember Spirit]] 10
+* [[Rock Viper]] 15
+* [[Lava Viper]] 15
+* [[Bandit Brigand]] 10
+* [[Mottled Sandjaw]] 15
+=== NPCs ===
+* [[Rescued Craggan Miner]]
 
 == The Final Battle ==
 This is a [[Side Area]]
+=== Monsters ===
+* 2x [[Verdigrizzly]]
+* 2x [[Regenerator]]
+* 1x [[Shara Colossus]]
 
 == Frozen Research Alcove ==
 This is a [[Side Area]]
+=== NPCs ===
+* [[Frozen Scientist]]
+* [[Frozen Machine]]
+* [[Strange Device]]
+* [[Frozen Bandit]]
 
 == Lush Research Alcove ==
+You can fast travel to this location
 This is a [[Side Area]]
+=== Monsters ===
+* 5x [[Heavy Golem]]
+* 3x [[Plunderer]]
+=== NPCs ===
+* [[Thawed Scientist]]
+* [[Strange Device]]
+* [[Thawed Bandit]]
 
 == Desert Oasis ==
+You can fast travel to this location
 This is a [[Side Area]]
+=== Monsters ===
+* 12x [[Grizzled Komodon]]
+* 1x Champion (2 mod(s)) [[Grizzled Komodon]]
+* 1x Champion (3 mod(s)) [[Grizzled Komodon]]
+=== NPCs ===
+* [[Sign]]
+* [[Ruby Moon]]
 
 == Casino 2F ==
 This is a [[Side Area]]
+=== Monsters ===
+* 11x Random Monster(s)
+* 1x Champion (1 mod(s)) Random Monster(s)
+* 1x Champion (2 mod(s)) Random Monster(s)
 === Monsters ===
 * [[Plunderer]] 12
 * [[Mad Chemist]] 14
@@ -3673,6 +3958,7 @@ This is a [[Side Area]]
 * [[Bandit Spellshaper]] 2
 
 == Dream of Dungeons Distant ==
+Expected player level: 15
 {| class="article-table" border="1"
 |Maximum Secret Areas
 |0
@@ -3703,8 +3989,18 @@ This is a [[Side Area]]
 * [[Corrupted Battousai]] 18
 
 == Ruined Passage ==
+=== NPCs ===
+* [[Shara]]
 
 == ??? Passage ==
+=== NPCs ===
+* [[Shara]]
 
 == ShepCore ==
+=== Monsters ===
+* 2x [[Barrier Generator]]
+* 2x [[Destroyer]]
+* 1x [[Supervisor Z-99]]
+* 4x [[Phasma Emitter]]
+* 4x [[Power Assembler]]
 
