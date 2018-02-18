@@ -7,6 +7,10 @@ spawnList = etree.parse('./spawn.xml')
 npcList = etree.parse('./npc.xml')
 roomList = etree.parse('./room.xml')
 
+def printText(text):
+    print(text)
+    print()
+
 def findSpawnTable(spawnTableName):
     for spawn in spawnList.iter('SpawnTable'):
         if(spawn.findtext('RefName')==spawnTableName):
@@ -39,23 +43,23 @@ def findSpecialTemplate(templateName):
 
 def printDungeonTitle(dungeon):
     if dungeon.findtext('CustomName'):
-        print("== "+dungeon.findtext('CustomName')+" ==")
+        printText("== "+dungeon.findtext('CustomName')+" ==")
     else:
-        print("== ????? ==")
+        printText("== ????? ==")
 
     if dungeon.find('TextOverlay') is not None:
-        print(dungeon.find('TextOverlay').findtext('Name'))
-        print(dungeon.find('TextOverlay').findtext('Text'))
+        printText(dungeon.find('TextOverlay').findtext('Name'))
+        printText(dungeon.find('TextOverlay').findtext('Text'))
     if dungeon.find('ExpectedPlayerLevel') is not None:
-        print("Expected player level: "+dungeon.findtext('ExpectedPlayerLevel'))
+        printText("Expected player level: "+dungeon.findtext('ExpectedPlayerLevel'))
     if dungeon.find('FastTravel') is not None:
-        print("You can fast travel to this location")
+        printText("You can fast travel to this location")
     if dungeon.find('ItemWorld') is not None:
-        print("This is an [[Item World]]")
+        printText("This is an [[Item World]]")
     if dungeon.find('SideArea') is not None:
-        print("This is a [[Side Area]]")
+        printText("This is a [[Side Area]]")
     if dungeon.find('ClearReward') is not None:
-        print("Clear to receive a reward")
+        printText("Clear to receive a reward")
 
 def printDungeonStats(dungeon):
     def my_replace(elementName):
@@ -84,7 +88,7 @@ def printDungeonStats(dungeon):
 
     if dungeon.find('MaxMonsters') is not None:
         output = re.sub(r'%%(\w+)%%', my_replace, output)
-        print(output)
+        printText(output)
 
 def printMonsters(dungeon):
     spawnTableName = dungeon.findtext('SpawnTable')
@@ -93,17 +97,19 @@ def printMonsters(dungeon):
 def printMonsterTable(spawnTableName):
     spawnTable = findSpawnTable(spawnTableName)
     if spawnTable is not None:
-        print("=== Monsters ===")
+        printText("=== Monsters ===")
         for monster in spawnTable.findall('.//ActorRefs/*'):
-            print("* [["+findMonsterName(monster.tag)+"]] "+monster.text)
+            printText("* [["+findMonsterName(monster.tag)+"]] "+monster.text)
 
 def printSideAreas(dungeon):
     currentFloor = dungeon.findtext('Level')
+    if dungeon.find('AltPath') is not None:
+        currentFloor = dungeon.findtext('AltPath')
     sideAreaList = findSideAreas(currentFloor)
     if sideAreaList != []:
-        print("=== Side Areas ===")
+        printText("=== Side Areas ===")
         for sideArea in sideAreaList:
-            print("* [["+sideArea.findtext('CustomName')+"]]")
+            printText("* [["+sideArea.findtext('CustomName')+"]]")
 
 def printNPCs(dungeon):
     spawnList = dungeon.findall('SpawnActor')
@@ -113,9 +119,9 @@ def printNPCs(dungeon):
             if spawn.findtext('ActorType')=='NPC':
                 output.append(findNPCName(spawn.findtext('RefName')))
     if output != []:
-        print("=== NPCs ===")
+        printText("=== NPCs ===")
         for npcName in output:
-            print("* [["+npcName+"]]")
+            printText("* [["+npcName+"]]")
 
 def countSpawns(room, symbol):
     occurances = 0
@@ -150,15 +156,15 @@ def printSpecialTemplate(dungeon):
             if char.findtext('CharType')=='NPC':
                 npcOutput.append(findNPCName(char.findtext('ActorRef')))
     if monsterOutput != []:
-        print("=== Monsters ===")
+        printText("=== Monsters ===")
         for monster in monsterOutput:
-            print(monster)
+            printText(monster)
     if randomMonsterTable is not None:
         printMonsterTable(randomMonsterTable)
     if npcOutput != []:
-        print("=== NPCs ===")
+        printText("=== NPCs ===")
         for npc in npcOutput:
-            print("* [["+npc+"]]")
+            printText("* [["+npc+"]]")
 
 
 for dungeon in dungeonList.iter("Floor"):
@@ -170,4 +176,4 @@ for dungeon in dungeonList.iter("Floor"):
         printMonsters(dungeon)
     printSideAreas(dungeon)
     printNPCs(dungeon)
-    print("")
+    printText("")

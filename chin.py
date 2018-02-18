@@ -1,4 +1,4 @@
-# threes simulator
+# chin simulator
 
 import random
 
@@ -65,7 +65,7 @@ def rollChin():
     if checkIfDoubles(diceRolls):
         return -(getThirdNumber(diceRolls))
 
-#dealer rolls. return 1 on player win, 0 on player lose, -num if doubles
+#dealer rolls til they get a result. return 1 on player win, 0 on player loss, -num if doubles
 def dealerRollChin():
     while True:
         roll = rollChin()
@@ -77,7 +77,7 @@ def dealerRollChin():
         if roll is not None:
             return roll
 
-#player rolls. return 1 on player win, 0 on player lose, -num if player rolls a double
+#player rolls til they get a result. return 1 on player win, 0 on player loss, -num if player rolls a double
 def playerRollChin():
     while True:
         #drops die
@@ -87,25 +87,37 @@ def playerRollChin():
         if roll is not None:
             return roll
 
+#compare rolls. return 1 on player win, 0 on player loss, -1 on tie
+def compareRolls(dealerRoll, playerRoll):
+    dealerRoll = -(dealerRoll)
+    playerRoll = -(playerRoll)
+    if playerRoll > dealerRoll:
+        return 1
+    if dealerRoll > playerRoll:
+        return 0
+    if dealerRoll == playerRoll:
+        return -1
 
-#play a game of chin. return 1 on win, 0 on lose
+#play a game of chin. return 1 on win, 0 on lose, keep rolling if we tie
 def chin():
     while True:
         dealerRoll = dealerRollChin()
         if dealerRoll>=0:
             return dealerRoll
+
         playerRoll = playerRollChin()
         if playerRoll>=0:
             return playerRoll
-        dealerRoll = -(dealerRoll)
-        playerRoll = -(playerRoll)
-        if playerRoll > dealerRoll:
-            return 1
-        if dealerRoll > playerRoll:
-            return 0
+
+        comparison = compareRolls(dealerRoll, playerRoll)
+        if comparison>=0:
+            return comparison
 
 numberOfWins=0
 for i in range(NUMBER_OF_GAMES):
     numberOfWins += chin()
 
+print("Win%:")
 print(numberOfWins/NUMBER_OF_GAMES)
+print("Number of games:")
+print(NUMBER_OF_GAMES)
