@@ -14,15 +14,16 @@ def run(protocol: protocol_api.ProtocolContext):
 
 with open('SingleHeadTransfer.csv') as csvfile:
     reader = csv.reader(csvfile)
-    wells = [[[0] * 12] * 8]
+    wells = [[0 for y in range(8)] for x in range(12)]
     regex = re.compile('[a-zA-Z][0-9]')
     for row in reader:
         well = row[0].strip()
-        volume = row[1].strip()
-        print(well)
         if not regex.match(well):
             print('Skipping well "' + well + '"')
             continue
-        print(well + ' ' + volume)
-        # wells[int(well[1])-1][0] = row[1]
+        wellX = int(well[1:])-1
+        # 32 is the difference between the unicode value of 'a' and 'A'
+        wellY = (ord(well[0])-ord('A'))%32
+        volume = int(row[1].strip())
+        wells[wellX][wellY] = volume
     print(wells)
