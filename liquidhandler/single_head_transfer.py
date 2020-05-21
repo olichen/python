@@ -9,13 +9,25 @@ metadata = {
     'apiLevel': '2.2'
 }
 
+CUSTOM_PLATE = 'appliedbiosystems_96_wellplate_100ul'
+CSV_FILE = 'SingleHeadTransfer.csv'
+
+if plate_name not in labware.list():
+    labware.create(
+        CUSTOM_PLATE,       # name of labware
+        grid=(12, 8),       # number of (columns, rows)
+        spacing=(9, 9),     # distances (mm) between each (column, row)
+        diameter=5.49,      # diameter (mm) of each well
+        depth=16.4,         # depth (mm) of each well
+        volume=100)         # volume (µL) of each well
+
 def run(protocol: protocol_api.ProtocolContext):
 
-    volumes = readCSV('SingleHeadTransfer.csv')
+    volumes = readCSV(CSV_FILE)
 
-    tiprack_1 = protocol.load_labware('opentrons_96_tiprack_300ul', 1)
-    plate1 = protocol.load_labware('corning_96_wellplate_360ul_flat', 2)
-    plate2 = protocol.load_labware('corning_96_wellplate_360ul_flat', 3)
+    tiprack_1 = protocol.load_labware('geb_96_tiprack_10ul', 1)
+    plate1 = protocol.load_labware(CUSTOM_PLATE, 2)
+    plate2 = protocol.load_labware(CUSTOM_PLATE, 3)
 
     p300 = protocol.load_instrument('p300_single', 'right', tip_racks=[tiprack_1])
 
@@ -25,6 +37,7 @@ def run(protocol: protocol_api.ProtocolContext):
             p300.transfer(volumes[x][y], plate1[well], plate2[well])
 
 
+# read in CSV file and output as a 12 by 8 array of volumes
 def readCSV(csvname):
     volumes = [[0 for y in range(8)] for x in range(12)]
 
