@@ -1,9 +1,6 @@
 from opentrons import protocol_api
 from opentrons import labware
 from opentrons import instruments
-import os
-import tkinter as tk
-from tkinter import filedialog
 import csv
 import re
 
@@ -15,16 +12,11 @@ metadata = {
 }
 
 CUSTOM_PLATE = 'appliedbiosystems_96_wellplate_100ul'
+CSV_FILE = 'SingleHeadTransfer.csv'
 
 def run(protocol: protocol_api.ProtocolContext):
 
-    root = tk.Tk()
-    root.withdraw()
-    csv_file = filedialog.askopenfilename(
-            initialdir=os.getcwd(),
-            title='Select file',
-            filetypes=[('CSV Files','*.csv')])
-    volumes = readCSV(csv_file)
+    volumes = readCSV(CSV_FILE)
 
     loadPlate()
     tiprack_1 = labware.load('geb_96_tiprack_10ul', 1)
