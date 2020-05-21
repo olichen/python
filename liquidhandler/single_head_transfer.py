@@ -1,4 +1,6 @@
 from opentrons import protocol_api
+from opentrons import labware
+from opentrons import instruments
 import csv
 import re
 
@@ -12,30 +14,32 @@ metadata = {
 CUSTOM_PLATE = 'appliedbiosystems_96_wellplate_100ul'
 CSV_FILE = 'SingleHeadTransfer.csv'
 
-if plate_name not in labware.list():
-    labware.create(
-        CUSTOM_PLATE,       # name of labware
-        grid=(12, 8),       # number of (columns, rows)
-        spacing=(9, 9),     # distances (mm) between each (column, row)
-        diameter=5.49,      # diameter (mm) of each well
-        depth=16.4,         # depth (mm) of each well
-        volume=100)         # volume (µL) of each well
-
 def run(protocol: protocol_api.ProtocolContext):
 
     volumes = readCSV(CSV_FILE)
 
-    tiprack_1 = protocol.load_labware('geb_96_tiprack_10ul', 1)
-    plate1 = protocol.load_labware(CUSTOM_PLATE, 2)
-    plate2 = protocol.load_labware(CUSTOM_PLATE, 3)
+    loadPlate()
+    tiprack_1 = labware.load('geb_96_tiprack_10ul', 1)
+    plate1 = labware.load(CUSTOM_PLATE, 2)
+    plate2 = labware.load(CUSTOM_PLATE, 3)
 
-    p300 = protocol.load_instrument('p300_single', 'right', tip_racks=[tiprack_1])
+    p10 = instruments.P10_Single(mount='right', tip_racks=[tiprack_1])
 
     for x in range(12):
         for y in range(8):
             well = chr(ord('A')+y) + str(x+1)
-            p300.transfer(volumes[x][y], plate1[well], plate2[well])
+            p10.transfer(volumes[x][y], plate1.wells(well), plate2.wells(well))
 
+# load custom plate
+def loadPlate():
+    if CUSTOM_PLATE not in labware.list():
+        labware.create(
+            CUSTOM_PLATE,       # name of labware
+            grid=(12, 8),       # number of (columns, rows)
+            spacing=(9, 9),     # distances (mm) between each (column, row)
+            diameter=5.49,      # diameter (mm) of each well
+            depth=16.4,         # depth (mm) of each well
+            volume=100)         # volume (µL) of each well
 
 # read in CSV file and output as a 12 by 8 array of volumes
 def readCSV(csvname):
