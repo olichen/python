@@ -1,3 +1,11 @@
+# Bare bones linked list
+class Node:
+    def __init__(self, data, next = None, prev = None):
+        self.data = data
+        self.next = next
+        self.prev = prev
+
+
 # For an M x N matrix, if an element is 0 set its entire row/column to 0
 from typing import List
 
