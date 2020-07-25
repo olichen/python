@@ -1,3 +1,27 @@
+# Check if a linked list is a palindrome
+def listIsPalindrome(node) -> bool:
+    length = 1
+    next_node = node
+    while next_node := next_node.next:
+        length += 1
+
+    half_p = []
+    i = 0
+    while i < int(length/2):
+        half_p.append(node.data)
+        node = node.next
+        i = i + 1
+    if length % 2:
+        node = node.next
+        length = length-1
+    while i < length:
+        if half_p[length - i - 1] != node.data:
+            return False
+        node = node.next
+        i += 1
+    return True
+
+
 # Bare bones linked list
 class Node:
     def __init__(self, data, next = None, prev = None):
