@@ -1,3 +1,14 @@
+# Simulate apocalypse
+import random
+
+def simulateApocalypse(n):
+    m = f = 0
+    for i in range(n):
+        while random.random() < .5:
+            m += 1
+        f += 1
+    print(f'Men: {m}\nWomen: {f}')
+
 # Check if a linked list is a palindrome
 def listIsPalindrome(node) -> bool:
     length = 1
