@@ -1,3 +1,52 @@
+# Print combinations of closed/opened parentheses
+def getParens(n):
+    out = []
+    getParensHelper('', n, 0, out)
+    return out
+
+def getParensHelper(base, left, right, out):
+    if left == 0 and right == 0:
+        out.append(base)
+        return
+    if left > 0:
+        getParensHelper(base + '(', left - 1, right + 1, out)
+    if right > 0:
+        getParensHelper(base + ')', left, right - 1, out)
+
+
+# Permutation of unique string
+def getPermutations(s):
+    out = ['']
+    for c in s:
+        new_out = []
+        for o in out:
+            for i in range(len(o)+1):
+                new_out.append(o[0:i] + c + o[i:len(o)])
+        out += new_out
+    return out
+
+
+# Power set
+def getSubsets(arr):
+    out = [[]]
+    for val in arr:
+        new_out = []
+        for prev_val in out:
+            new_val = prev_val.copy()
+            new_val.append(val)
+            new_out.append(new_val)
+        out += new_out
+    return out
+
+
+# Triple step
+def tripleStep(n):
+    steps = [0, 0, 1]
+    for i in range(n):
+        steps[i%3] = sum(steps)
+    return steps[(n-1)%3]
+
+
 # Simulate apocalypse
 import random
 
