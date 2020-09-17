@@ -1,3 +1,19 @@
+# Counts number of ways to make change
+def changeCounter(c):
+    return changeCounterHelper(c, [25, 10, 5, 1], 0)
+
+def changeCounterHelper(c, denom, i):
+    if i == len(denom) - 1:
+        if c % denom[i] == 0:
+            return 1
+        return 0
+    ways = 0
+    while c >= 0:
+        ways += changeCounterHelper(c, denom, i + 1)
+        c -= denom[i]
+    return ways
+
+
 # Print combinations of closed/opened parentheses
 def getParens(n):
     out = []
